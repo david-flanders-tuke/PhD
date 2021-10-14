@@ -2,7 +2,7 @@
 
 # Literature review:
  - [x] Behavioural development economics field tests by Ostrom and [Cardenas](https://scholar.google.com.co/citations?user=yfeFFpIAAAAJ&hl=en)
- - [x] Natural experimentation for comparitive cause/casulity probailities, as defined by Noble Prize winners in Economics (Joshua D. Angrist and Guido W. Imbens): [Identification and estimate of local average treatm effects](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
+ - [x] Natural experimentation for comparitive cause/casulity probailities, as defined by Noble Prize winners in Economics (Joshua D. Angrist and Guido W. Imbens): [Identification and estimate of local average treatment effects](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
 
 ## Field test for collective action theory for common pool resources
 
@@ -10,6 +10,9 @@
 
 ## Natural experimentation methodology
 AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
+
+ - How do you calculate the local average treatment effect?
+   -Regressing treatment status (D) on the treatment assignment (Z) gives the estimated share of compliers: 80%. The ITT effect is estimated by regressing outcome Y on the assignment to treatment (Z). Again, LATE is estimated by dividing the ITT estimate by the estimated share of compliers.
 
   - [ ] Applied science => verifying causal relationships.  estimating the effect of treatment / interventions / programs.
   - [ ] Random assignment is the norm in medical research: requires some group in the sample for whom the probability of treatment is zero (control group), at least in the limit.
