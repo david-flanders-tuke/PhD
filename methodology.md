@@ -9,7 +9,8 @@
  - [ ] To add from: https://etherpad.opendev.org/p/flanders-phd-cloud-graph-databases
 
 ## Natural experimentation methodology
-AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
+ - AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
+ - - Summary of LATE = https://egap.org/resource/10-things-to-know-about-the-local-average-treatment-effect/
 
 ### How do you calculate the local average treatment effect (LATE)?
   - [ ] Regressing treatment status (D) on the treatment assignment (Z) gives the estimated share of compliers: 80%. The ITT effect is estimated by regressing outcome Y on the assignment to treatment (Z). Again, LATE is estimated by dividing the ITT estimate by the estimated share of compliers.
