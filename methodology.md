@@ -1,8 +1,10 @@
 # Methodology for conducting research experiments into collective action theory
 
 # Literature review:
- - [x] Natural experimentation for comparitive cause/casulity probailities, as defined by Noble Prize winners in Economics (Joshua D. Angrist and Guido W. Imbens): [Identification and estimate of local average treatm effects](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
  - [x] Behavioural development economics field tests by Ostrom and [Cardenas](https://scholar.google.com.co/citations?user=yfeFFpIAAAAJ&hl=en)
+ - [x] Natural experimentation for comparitive cause/casulity probailities, as defined by Noble Prize winners in Economics (Joshua D. Angrist and Guido W. Imbens): [Identification and estimate of local average treatm effects](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
+
+## Field test for 
 
 ## Natural experimentation methodology
 AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
@@ -21,6 +23,14 @@ AKA ['identification and estimation of local average treatment effects'](https:/
   - [ ] a combinatin of an instrument + condition on the relation between the instrument and the participation status is sufficient for identification of a local average treatment effect, for those who can be induced to change their participation status by changing the value of the instrument.
   - [ ] probability limit of the standard IV estimator under the above conditions.
   - [ ] result is a weighted average of local average treatment effects.
+  - [ ] Conditions for the identification of a class of average treatment effects requires:
+  - [ ] the existence of an instrument that shifts the participation probability but does not directly affect the reponse.  
+
+Summary of methodlogy:
+  - [ ] For heterogenous data treatment effects, exclusion restrictions may not be enough to identify the average treatment effect on the treated, but they are enough to identify the average treatment effect for a subset of the participants.
+  - [ ] Most important part of empircial research is uncovering the potential instruments in the first place.
+  - [ ] Given a valid instrument, technical heterogeneity considerations need not inhibit statistically valid inference.
+  - [ ] Conventional 'two-stage least squares (2SLS) regression analysis' estimators
  
  ### Model
   - [ ] Y0 = response without the treatment for the typical individual
@@ -44,10 +54,9 @@ AKA ['identification and estimation of local average treatment effects'](https:/
 ### Estimation
  - [ ] Theorem 1: procedure for estimating treatment effects with random sample: Y, D and Z (Z is binary with values z and w).  Local average treatment effects can be used to assess the variability of treatment accross the population as a single efficient estimate.  Wald estimates is the Chi-square goodness of fit statistics.  If Z is not one-dimensional, or Pz is non-decreasing, then the instrument can be transformed from Z to Z=Pz.   The limit is well defined if αz is the expected treatment effect for somone who will change from participation to non-participation if the value of the instrument is lowered from its original value of z, however small the decrease.
  - [ ] Theorem 2: different instrument may lead to different estimates if the treatment effect is not constant. Variation in treatment effects might affect different instrument variables estimators.  If there are additional variables X which affect both the response and probability of the participation there are a number of possibilitiess.
-
  
  ### Examples
-   - [ ] Draft lottery
-   - [ ] Compulsory schooling age
-   - [ ] Administrative screening
-   - [ ] Randomized intention to treat
+  - [ ] Draft lottery (Vietnam-era conscription).  Instrument = draft lottery number randomly assigned to birth (lottery numbers do not affect response variable be that earning or employment status.  Veteran status was not randomly assigned. Average probability of serving in the military falls with the lottery number. 
+  - [ ] Compulsory schooling age: effect of school on earnings using the variation in compulsory schooling created by the variation in birth dates.  Birthdates probably don't effect earnings, but do affec the level of schooling achieved because people born on different dates are confronted with slightly different compulsory schooling levels.  The local average treatment effect identified here is that people who are affected by the compulsory schooling laws.
+  - [ ] Administrative screening: not tribvally satisfied because of selection process by different people.
+  - [ ] Randomized intention to treat: requires that poeple who were assigned treatment but did not recieve it, would also not recieve treatment if they were not assigned to it.  In additional people who received treatment despite being assigned to the control group, would also recieve if it they were assigned to the treatment group.  This treatment effect is the average treatment effect for those who always comply with their assignment.
