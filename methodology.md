@@ -40,4 +40,14 @@ AKA ['identification and estimation of local average treatment effects'](https:/
   - [ ] Condition 1&2 satisfy latent index class models used in econometric sample selection applications.  
   - [ ] Arguments for Conditions 1&2 = Comparing stochastic-random class models: the treatment effect, the response and the participation equation must all three be independent of the instrument (Z), e.g. Heckman-1990 identified that constant treatment effect with observable characteristics that affect both the participation and response _can_ result in identification of the average treatment effect for the treated from a random sample (noting Z must be unbounded).
   - [ ] In Conditions 1&2 are true, then we can identify the folowing average treatment effect theorems: one can identify the average treatment effect for that part of the population that changes its participation behaviour with the change in the instrument from Z=z to Z=w.  The less the treatment effect varies accross the population, the closer the local average treatment effect is to a population effect.  Local average treatment effect is the average treatment effect for the indidivuals whose behaviour can be changed by changing the value of Z. Accordingly, the average treatment effect for this group is an approximation for individuals who would be drawn into the program if it were to be made marginally more attractive.  Data is only informative about the impact of individuals (binary regressors) who change the value of regressor over the observation period, ergo the treatment effect is identified only for potential changers (those who can be induced to change particpation stuatus by a change in the instrument).
-  - [ ] 
+
+### Estimation
+ - [ ] Theorem 1: procedure for estimating treatment effects with random sample: Y, D and Z (Z is binary with values z and w).  Local average treatment effects can be used to assess the variability of treatment accross the population as a single efficient estimate.  Wald estimates is the Chi-square goodness of fit statistics.  If Z is not one-dimensional, or Pz is non-decreasing, then the instrument can be transformed from Z to Z=Pz.   The limit is well defined if αz is the expected treatment effect for somone who will change from participation to non-participation if the value of the instrument is lowered from its original value of z, however small the decrease.
+ - [ ] Theorem 2: different instrument may lead to different estimates if the treatment effect is not constant. Variation in treatment effects might affect different instrument variables estimators.  If there are additional variables X which affect both the response and probability of the participation there are a number of possibilitiess.
+
+ 
+ ### Examples
+   - [ ] Draft lottery
+   - [ ] Compulsory schooling age
+   - [ ] Administrative screening
+   - [ ] Randomized intention to treat
