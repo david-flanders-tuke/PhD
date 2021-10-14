@@ -11,9 +11,8 @@
 ## Natural experimentation methodology
 AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
 
- - How do you calculate the local average treatment effect?
-   -Regressing treatment status (D) on the treatment assignment (Z) gives the estimated share of compliers: 80%. The ITT effect is estimated by regressing outcome Y on the assignment to treatment (Z). Again, LATE is estimated by dividing the ITT estimate by the estimated share of compliers.
-
+### How do you calculate the local average treatment effect (LATE)?
+  - [ ] Regressing treatment status (D) on the treatment assignment (Z) gives the estimated share of compliers: 80%. The ITT effect is estimated by regressing outcome Y on the assignment to treatment (Z). Again, LATE is estimated by dividing the ITT estimate by the estimated share of compliers.
   - [ ] Applied science => verifying causal relationships.  estimating the effect of treatment / interventions / programs.
   - [ ] Random assignment is the norm in medical research: requires some group in the sample for whom the probability of treatment is zero (control group), at least in the limit.
   - [ ] Observational studies are not credible? => instrumental variables for identification of average treatment effects in a population of interest, or on the average effect for the sub-population that is treated.  The condition to nonparametrically identify these parameters can be restrictive and identification results fragile. 
@@ -65,3 +64,4 @@ Summary of methodlogy:
   - [ ] Compulsory schooling age: effect of school on earnings using the variation in compulsory schooling created by the variation in birth dates.  Birthdates probably don't effect earnings, but do affec the level of schooling achieved because people born on different dates are confronted with slightly different compulsory schooling levels.  The local average treatment effect identified here is that people who are affected by the compulsory schooling laws.
   - [ ] Administrative screening: not tribvally satisfied because of selection process by different people.
   - [ ] Randomized intention to treat: requires that poeple who were assigned treatment but did not recieve it, would also not recieve treatment if they were not assigned to it.  In additional people who received treatment despite being assigned to the control group, would also recieve if it they were assigned to the treatment group.  This treatment effect is the average treatment effect for those who always comply with their assignment.
+  - [x] Two sided non-compliance case aka encouragement designs subjects self-select into treatment = both treatment and control group have access to the experiment (Hirano 2000).
