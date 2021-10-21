@@ -9,7 +9,7 @@
   - [ ] Appropriate identification of ethical issues for research involving animals; humans; ionising radiation; microwaves, lasers or ultraviolet light; or recombining of DNA.
   - [x] Completion of a [Data Management Plan]().
   - [ ] Completion of any required coursework.
-  - [x] Successful completion of the [Research Integrity Training program]()
+  - [x] Successful completion of the [Research Integrity Training program](https://github.com/david-flanders-tuke/PhD/blob/main/ResearchIntegrityTraining-Blackboard.png)
 
 ## Milestone 2
   - [ ] foobar
