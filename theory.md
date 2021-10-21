@@ -4,8 +4,9 @@
   - [ ] New institutional economics > lower [transaction costs](https://en.wikipedia.org/wiki/Transaction_cost) = economic growth?
 
 ## Game theory hypothesis
+Can we collectively spend taxpayer resources more efficiently?
  - [ ] How to optimise decision making by a group of researchers to optimally and longitudally use a CPR?
-
+ - [ ] Policy report to taxpayer: we your researchers are striving to achieve optimal outcomes for burden sharing and improvement?
 ### Field experimental theory
 Cardenas, Ostrom, et al
   - [ ] "groups of individuals in public good environment tend to achieve more efficient outcomes than Nash equilibrium outcomes"
