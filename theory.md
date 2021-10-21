@@ -4,7 +4,12 @@
   - [ ] New institutional economics > lower [transaction costs](https://en.wikipedia.org/wiki/Transaction_cost) = economic growth?
 
 ## Game theory hypothesis
-Can we collectively spend taxpayer resources more efficiently?
+Questions:
+ - [ ] Can we collectively spend taxpayer resources more efficiently?
+ - [ ] Is there an economics of citation, e.g. libaries as collective action banks?
+ - [ ] PhDs students as low income wage/citation earners vs professors as high wage/citation earners; terehby resulting in collectivce action theory that it is the low income earners who enable pareto collaboration?
+ - [ ] Are citation highly subtractable and excludability difficult?  And how are they mined from taxpayer funds?
+ - [ ] Not all citation are weighted the same? Does a social socience citation costs more than a science publication to produce?
  - [ ] How to optimise decision making by a group of researchers to optimally and longitudally use a CPR?
  - [ ] Policy report to taxpayer: we your researchers are striving to achieve optimal outcomes for burden sharing and improvement?
 ### Field experimental theory
