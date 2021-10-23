@@ -13,6 +13,7 @@
  - - Summary of LATE = https://egap.org/resource/10-things-to-know-about-the-local-average-treatment-effect/
 
 ### How do you calculate the local average treatment effect (LATE)?
+Joshura D. Angrist & Guido W. Imbens ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
   - [ ] Regressing treatment status (D) on the treatment assignment (Z) gives the estimated share of compliers: 80%. The ITT effect is estimated by regressing outcome Y on the assignment to treatment (Z). Again, LATE is estimated by dividing the ITT estimate by the estimated share of compliers.
   - [ ] Applied science => verifying causal relationships.  estimating the effect of treatment / interventions / programs.
   - [ ] Random assignment is the norm in medical research: requires some group in the sample for whom the probability of treatment is zero (control group), at least in the limit.
