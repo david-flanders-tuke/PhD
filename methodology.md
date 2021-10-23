@@ -1,6 +1,10 @@
 # Methodology for conducting research experiments into collective action theory
+To read:
+ - [ ] https://en.wikipedia.org/wiki/Instrumental_variables_estimation
+ - [ ] https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity_(statistics)
+ - [ ] symetrical vs asymetrical 
 
-# Literature review:
+# Methodology review:
  - [x] Behavioural development economics field tests by Ostrom and [Cardenas](https://scholar.google.com.co/citations?user=yfeFFpIAAAAJ&hl=en)
  - [x] Natural experimentation for comparitive cause/casulity probailities, as defined by Noble Prize winners in Economics (Joshua D. Angrist and Guido W. Imbens): [Identification and estimate of local average treatment effects](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
 
@@ -10,7 +14,7 @@
 
 ## Natural experimentation methodology
  - AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
- - - Summary of LATE = https://egap.org/resource/10-things-to-know-about-the-local-average-treatment-effect/
+ - Summary of LATE = https://egap.org/resource/10-things-to-know-about-the-local-average-treatment-effect/
 
 ### How do you calculate the local average treatment effect (LATE)?
 Joshura D. Angrist & Guido W. Imbens ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
