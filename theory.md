@@ -13,9 +13,20 @@ Questions:
  - [ ] How to optimise decision making by a group of researchers to optimally and longitudally use a CPR?
  - [ ] Policy report to taxpayer: we your researchers are striving to achieve optimal outcomes for burden sharing and improvement?
  - [ ] Is their an opportunity (in the longitudal historical economic paradigm) for a revolution in on-mass delivery of education?  Ergo the availability of taxpayer funds to once again shift the focus of the institution back onto a delivery of education via more complete research lead projects?
+ - [ ] What if we instead imagined The Australian Research Act as a kind of natural resource, like the Aboriginal and Crown land of the Great Australian Divide?  What is each dollar in that 815 million dollar taxpayer fund represented a forest, water system and/or indigenous animal? NB ironically, in some way these dollars do represent varying ecosystems as they are spent on protecting priceless envioronments on one of the oldest inhabited continents on earth.  Ironically, it becomes our duty as researchers to hold one another accountable and sanctionable, as we are acting on behalf of the things we want to last beyond the holocene.
 
 ### Field experimental game theory 
 Collective action economics theory by Ostrom, Cardenas, et al
+
+### Ostrom: [Beyond markets and states: polycentric governance of complex economic systems](https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf)
+ - [ ] Beyond market and state: outcomes for diverse institutional arrangements for governing common-pool resources (CPRs) and public goods at multiple scales.
+ - [ ] the humans we study have complex motivational  structures and establish diverse private-for-profit, governmental, and  community institutional arrangements that operate at multiple  scales to generate  productive and innovative as well as destructive and perverse outcomes.
+ - [ ] simply  allowing  communication, or “cheap talk,” enables participants to reduce overharvesting and increase joint payoffs, contrary to game-theoretical predictions (Cardenas)
+ - [ ] 1954 Paul Samuelson (1954) divided goods into two types: excludable and rivalrous; public goods are both non-excludable and non rivalrous aka difficult to disclude and easily errodable (subtractable).  No longer was the world filled with actors who were either consumers or voters.  
+ - [ ] 1965 Additional product types like "club goods", "toll goods" "common pool goods" have been identified since (Buchanan)
+ - [ ] rational individuals (fully capable) know all strategies, outcomes per strategy and their rank order for utilitarian value to themselves, such as expected profits.
+ - [ ] 1961 Polycentricty of institutional agencies has the potential to be productive (V.Ostrom, Tiebout, Warren), e.g. SMC (small-medium cities) are more effective in: monitorring transaction costs, enable citizen to vote with their feet and allow incorporated communities to contract competively.
+ - [ ] 1993 proof that complexity is not the same as chaos in regards to governance.
 
 #### Research notes re assymetric payoff table for field experiment
   - [ ] "groups of individuals in public good environment tend to achieve more efficient outcomes than Nash equilibrium outcomes"
