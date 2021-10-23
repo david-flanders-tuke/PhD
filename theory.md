@@ -5,7 +5,7 @@
 
 ## Questions/hypothesis of behavioural decision making
 Questions:
- - [ ] Can we collectively spend taxpayer resources more efficiently?
+ - [ ] Can institutions collectively spend taxpayer resources more efficiently?
  - [ ] Is there an economics of citation, e.g. libaries as collective action banks?
  - [ ] PhDs students as low income wage/citation earners vs professors as high wage/citation earners; terehby resulting in collectivce action theory that it is the low income earners who enable pareto collaboration?
  - [ ] Are citation highly subtractable and excludability difficult?  And how are they mined from taxpayer funds?
@@ -33,8 +33,10 @@ References:
 ### [New Institutional Economics](https://en.wikipedia.org/wiki/New_institutional_economics)
 Oliver E. Williamson, [The new institutional economics: taking stock, looking ahead](https://www.jstor.org/stable/2565421) Sept 2000
   - [ ] 'institutions do matter' and 'the determinants of institutions are susceptible to analysis by the tools of economic theory' (Mathews).
-  - [ ] Economics of institution levels: L1: social theory, L2 economics of property (political theory), L3 transaction cost economics, L4 neoclassical economicy (agency theory).
-  - [ ] the opportunities for change at each of the above levels varies in time length exponentially at each level, ergo opportunities for change are historical incidences which history has recorded in multiple civilisations, e.g. federalist papers resulting in an independent united states government constituating in a judicial, legislative and executive branches of power; 
+  - [ ] Economics of institution hierarchical pyramid levels: *L1* (100-1000 years): social theory embedded like institution, customs, traditions, norms, regligions, etc, *L2* (10-100 years) economics of property (political theory) like property, polity, judiciary, bureaucracy, etc, *L3* (1-10 years) transaction cost economics like governance, contracts, play of the game, etc *L4* (continous) neoclassical economicy (agency theory) like prices, quantities and incentive alignment, etc.
+  - [ ] the opportunities for change at each of the above levels varies in time length exponentially at each level, ergo opportunities for change are historical incidences which history has recorded in multiple civilisations, e.g. federalist papers resulting in an independent government constituating in a judicial, legislative and executive branches of power; 
+  - [ ]  "truly among man's innovations, the use  of organization to accomplish his ends  is among both his greatest and his earliest" (Arrow 1971). We cannot  fail, however, to be awed by the pro-  found importance of technological inno-  vation (Robert Fogel 1999). Inasmuch  as these two work in tandem, we need  to find ways to treat technical and or-  ganizational innovation in a combined  manner.
+  - [ ]  "Note that the common practice of condemning public bureaus because they have  lower-powered incentives, more rules  and regulations, and greater job security than a counterpart firm completely  misses the point. These features have  been deliberately crafted into the pub-  lic bureau, thereby to make it better  suited to govern some (especially difficult) transactions.6 Vigilance is nonetheless needed-lest the public bureau  be "overused."
 
 https://en.wikipedia.org/wiki/Douglass_North
 
