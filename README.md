@@ -9,12 +9,16 @@ Table of contents:
 
 ## Purpose of experiment
  - [ ] Evaluate cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools?
+ - [ ] 
 
-## Literature review of collective action socioeconomics
- - [ ] Elinor Ostrom's Nobel Prize for "analysis of economic governance, especially in the commons"
- - [ ] Juan Camilo Cardenas and Elinor Ostrom's 1999 
+## Literature review
+ - [ ] Theoretical: socioeconomics aka new institutional economics and collective action theory.
+ - [ ] Field experiment: game-theory (nash equilibrium, pareto optimal, tragedy of the commons) and cooperation behavioural governance.
+ - [ ] Experimental analysis: quantitative *&* qualitative.
 
-## Methodlogy for field experiment
+## Methodlogies for field experiment
+ - [ ] Qualitative: analysis of individual's survey data on social-behavioural decision making
+ - [ ] Quantiative: statistical prediction for group behaviour's liklihood of optimisation 
 
 ## Administration of field experiment
  - [ ] Invites to participants and required experimental permissions
@@ -27,4 +31,4 @@ Table of contents:
 The following list of documents provide evidence by Curtin University for conduting a research experiment on humans as part of PhD research:
  - [x] Research Data Managmeent Plan
  - [x] Research Integrity Training
- - [x] 
+ - [ ] ...
