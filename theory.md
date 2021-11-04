@@ -45,10 +45,10 @@ Studies, 44:3, 311-338, DOI: 10.1080/00220380701848327
  - [ ] What individual preferences engage stratragic behaviours?  How do field experiments change our perception of economic value development?
  - [ ] Very few developing countries have escaped poverty.
  - [ ] 4x type of behavioural experiments, evaluating individual choices in group contexts:
- - [ ] (i) cooperation in social dilemas: prisoner's dilema (PD), volontary contribution mechanism (VCM) and common pool resource (CPR) games.
- - [ ] (ii) trust and reciprocity: trust game (TG), dictator games (DG), ultimatum game (UG), comparative conentric circle Dictator Games to avoid 50-50 splits.
- - [ ] (iii) norms of fairness and altruism
- - [ ] (iv) risk and time preferences
+ - [ ] (i) cooperation in social dilema games: prisoner's dilema (PD), volontary contribution mechanism (VCM) and common pool resource (CPR) games.
+ - [ ] (ii) trust and reciprocity games: trust game (TG)
+ - [ ] (iii) norms of fairness and altruism games: dictator games (DG), ultimatum game (UG), comparative conentric circle Dictator Games to avoid 50-50 splits.
+ - [ ] (iv) risk and time preference (intertemporal decision-making) games: accept|reject lotteries game (LG), choose lottery game (cLG), individual discount rates correlations (IDR)
  - [ ] Cooperation in social dilema experiments reveal that participants in developing countries are more likely to have higher cooperation norms.
  - [ ] Cooperation in older people is more likely (vs students).
  - [ ] Sanctions on free-riders have noticeable effect on contributions, e.g. small-talk between rounds of the game also effect conservation levels.
@@ -73,6 +73,8 @@ Studies, 44:3, 311-338, DOI: 10.1080/00220380701848327
   - [ ]  Civilising markets theory (Hirschman 1982): the more people are integrated into markets are more fair (know how to deal with) strangers =  societies in which team work is essential for production (whale fisherman) have strong sharing norms, vs societies with small bands of isolated and independent family groups are not generous to outsiders nor expect outsiders to be generous. 
   - [ ]  Community level differences explain much more of the variation of play than individual differences, e.g. those who are fairer are more likely to insist on fairness by others.
   - [ ] Deservingness is a strong predictor of altriusm and social preference experiments seem to also be good ways to measure social interaction effects, e.g. donations are 6x larger when recipient is identified as poor.
+  - [ ] In IDRs income, age and education has a marginal correlation with discount rates, p, e.g. those with larger incomes / more age / less education are more patient.
+  - [ ] Prospect theory hypothesis (Kahneman & Tversky 1979): people tend to be risk averse in gains and risk seeking in losses (relative to objective/outcome weights).
   - [ ] 
 
 ### [New Institutional Economics](https://en.wikipedia.org/wiki/New_institutional_economics)
