@@ -29,6 +29,7 @@ Collective action economics theory by Ostrom, Cardenas, et al
  - [ ] 1993 proof that complexity is not the same as chaos in regards to governance.
 
 #### Research notes re assymetric payoff table for field experiment
+Via core.ac.uk <title> 'what do people bring into the game: experiments in the field about cooperation in the commons' </title> https://core.ac.uk/download/pdf/7105016.pdf 
   - [ ] "groups of individuals in public good environment tend to achieve more efficient outcomes than Nash equilibrium outcomes"
   - [ ] burden sharing in achieving better-than-Nash equillibrium outcomes
   - [ ] subjects are asked to decide how much time to devote to collecting <grants/publishing>, and how much to devote to an alternative market pursuit such as wage labour (experimentation) or farming one's own land (increasing h-index).
@@ -37,9 +38,42 @@ Collective action economics theory by Ostrom, Cardenas, et al
   - [ ] Two experiment treatments: symetric returns vs asymetric returns: average returns to the market alternative (per unit of effort) ar the same in both the sym and asym. Nash equilibria of both treatments yield the same aggregate amount of time spent collecting firewood ergo local water quality.
   - [ ] Disciplinarity as economic inequality: for common pool experiments Hackett1994 vary the exogenous endowment of an input across individuals.
 
-References:
- - [ ] Via core.ac.uk <title> 'what do people bring into the game: experiments in the field about cooperation in the commons' </title> https://core.ac.uk/download/pdf/7105016.pdf 
- - [ ] 
+#### [Behavioural Development Economics](https://www.tandfonline.com/doi/pdf/10.1080/00220380701848327)
+Juan Camilo Cardenas & Jeffrey Carpenter (2008) Behavioural Development
+Economics: Lessons from Field Labs in the Developing World, The Journal of Development
+Studies, 44:3, 311-338, DOI: 10.1080/00220380701848327
+ - [ ] What individual preferences engage stratragic behaviours?  How do field experiments change our perception of economic value development?
+ - [ ] Very few developing countries have escaped poverty.
+ - [ ] 4x type of behavioural experiments, evaluating individual choices in group contexts:
+ - [ ] (i) cooperation in social dilemas: prisoner's dilema (PD), volontary contribution mechanism (VCM) and common pool resource (CPR) games.
+ - [ ] (ii) trust and reciprocity: trust game (TG), dictator games (DG), ultimatum game (UG), comparative conentric circle Dictator Games to avoid 50-50 splits.
+ - [ ] (iii) norms of fairness and altruism
+ - [ ] (iv) risk and time preferences
+ - [ ] Cooperation in social dilema experiments reveal that participants in developing countries are more likely to have higher cooperation norms.
+ - [ ] Cooperation in older people is more likely (vs students).
+ - [ ] Sanctions on free-riders have noticeable effect on contributions, e.g. small-talk between rounds of the game also effect conservation levels.
+ - [ ] In VCM games, partners who receieve money will hide their share from their family, vs the common family share.
+ - [ ] Where formal institutions are missing to dictate behaviour, pro-social norms and preferences as behavioural benchmarks are relied upon by the group. "I do not need to feel very cooperative towards you if we can write an enforceable contract but when we cannot, then you demonstrating your cooperativeness matters a lot."
+ - [ ] If inofrmal enforcement mechanism are provided locally and cooperation is enforced by social ostracism or mutual monitorring, cooperation may be sustainable.
+ - [ ] Informal institutions may outperform formal institutions because local solutions are often better informed but, if local norms and rules are less stable than enforced laws this may not hold.
+ - [ ] Social shaming can have a big effect on behaviour, e.g. microcredit as a form of social dilemma, then group lending is not so surprising.
+ - [ ] In CPR games, groups of poor people conserve common property better than mixed groups with both affluent and poor people. <-- goes against Ostrom 'privelaged group hypothesis' theory.
+ - [ ] Policies that increase market value of labour for CPR extraction may lead to worse management, e.g. less value is placed on preserving the resource.
+ - [ ] There is an upward sloping relationship between trust and reciprocity, suggesting the possibility of multiple trust-trustworthiness equilibria.
+ - [ ] TG conditional reciprocity is more efficient than balanced (interest free) reciprocity.
+ - [ ] People who state higher levels of trust in strangers are actually more trustworthy
+ - [ ] Risk-takers are more prone to taking bad risks that leave them unable to repay their loands and these same people appear more trusting in the TG.
+ - [ ] COuntries who score high in the World Values Survey (WVS), also correlate with more trust (sending more in a TG).
+ - [ ] Countries with higher growth rates are associated with more trust
+ - [ ] Countries with less poverty are associated with more trust
+ - [ ] Countries with division in economic gains (more unequal Gini coefficient) are associated with less trust
+ - [ ] Higher unemployment is associated with less trust.
+ - [ ] Dyadic interactions in TG where altriusm dictates how generous one person must treat a second person with little or no control on the outcome.
+  - [ ]  Two factors in UG offers: local payoff to cooperation and the degree of market integration.
+  - [ ]  Civilising markets theory (Hirschman 1982): the more people are integrated into markets are more fair (know how to deal with) strangers =  societies in which team work is essential for production (whale fisherman) have strong sharing norms, vs societies with small bands of isolated and independent family groups are not generous to outsiders nor expect outsiders to be generous. 
+  - [ ]  Community level differences explain much more of the variation of play than individual differences, e.g. those who are fairer are more likely to insist on fairness by others.
+  - [ ] Deservingness is a strong predictor of altriusm and social preference experiments seem to also be good ways to measure social interaction effects, e.g. donations are 6x larger when recipient is identified as poor.
+  - [ ] 
 
 ### [New Institutional Economics](https://en.wikipedia.org/wiki/New_institutional_economics)
 Oliver E. Williamson, [The new institutional economics: taking stock, looking ahead](https://www.jstor.org/stable/2565421) Sept 2000
