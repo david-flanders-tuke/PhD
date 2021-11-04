@@ -43,7 +43,7 @@ Juan Camilo Cardenas & Jeffrey Carpenter (2008) Behavioural Development
 Economics: Lessons from Field Labs in the Developing World, The Journal of Development
 Studies, 44:3, 311-338, DOI: 10.1080/00220380701848327
  - [ ] What individual preferences engage stratragic behaviours?  How do field experiments change our perception of economic value development?
- - [ ] Very few developing countries have escaped poverty.
+ - [ ] Very few developing countries have escaped poverty. --> What new economic games/sanctions can empower value creation?
  - [ ] 4x type of behavioural experiments, evaluating individual choices in group contexts:
  - [ ] (i) cooperation in social dilema games: prisoner's dilema (PD), volontary contribution mechanism (VCM) and common pool resource (CPR) games.
  - [ ] (ii) trust and reciprocity games: trust game (TG)
@@ -89,4 +89,4 @@ https://en.wikipedia.org/wiki/Douglass_North
 
 # Yet to be investigated
  - [ ] https://en.wikipedia.org/wiki/Vickrey%E2%80%93Clarke%E2%80%93Groves_mechanism
- - [ ] 
+
