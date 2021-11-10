@@ -19,4 +19,4 @@ Other shoulders stood upon:
  - [ ] Rachel Heery
  - [ ] Julie Allinson
  - [ ] [David Groenewegen](https://scholar.google.com/citations?user=lUr9owMAAAAJ)
- - [ ] TBC
+ - [ ] Thierry Carrez @tcarrez
