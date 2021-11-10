@@ -1,4 +1,4 @@
-# Methodology for conducting research experiments into collective action theory
+# Methodology for conducting field experiments into collective action theory
 To read:
  - [ ] https://en.wikipedia.org/wiki/Instrumental_variables_estimation
  - [ ] https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity_(statistics)
@@ -16,7 +16,7 @@ To read:
  - AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
  - Summary of LATE = https://egap.org/resource/10-things-to-know-about-the-local-average-treatment-effect/
 
-### How do you calculate the local average treatment effect (LATE)?
+### How do you calculate the local average treatment effect (LATE) for self selecting participants?
 Joshura D. Angrist & Guido W. Imbens ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
   - [ ] Regressing treatment status (D) on the treatment assignment (Z) gives the estimated share of compliers: 80%. The ITT effect is estimated by regressing outcome Y on the assignment to treatment (Z). Again, LATE is estimated by dividing the ITT estimate by the estimated share of compliers.
   - [ ] Applied science => verifying causal relationships.  estimating the effect of treatment / interventions / programs.
