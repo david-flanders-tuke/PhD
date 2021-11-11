@@ -1,3 +1,31 @@
+@article{Cohen1998Aug,
+	author = {Cohen, Joel E.},
+	title = {{Cooperation and self-interest: Pareto-inefficiency of Nash equilibria in finite random games}},
+	journal = {Proc. Natl. Acad. Sci. U.S.A.},
+	volume = {95},
+	number = {17},
+	pages = {9724--9731},
+	year = {1998},
+	month = {Aug},
+	issn = {0027-8424},
+	publisher = {National Academy of Sciences},
+	doi = {10.1073/pnas.95.17.9724}
+}
+
+@article{Ahn2010Jun,
+	author = {Ahn, T. K. and Wilson, Rick K.},
+	title = {{Elinor Ostrom{'}s contributions to the experimental study of social dilemmas}},
+	journal = {Public Choice},
+	volume = {143},
+	number = {3},
+	pages = {327--333},
+	year = {2010},
+	month = {Jun},
+	issn = {0048-5829},
+	publisher = {Springer Verlag},
+	doi = {10.1007/s11127-010-9623-8}
+}
+
 
 @article{Cardenas2008Mar,
 	author = {Cardenas, Juan Camilo and Carpenter, Jeffrey},
