@@ -1,4 +1,5 @@
 # Research Proposal
+https://students.curtin.edu.au/wp-content/uploads/sites/6/2019/10/FACT-SHEET-Research-Proposal-Information-14.10.2019.pdf
 
 ## 1. Title and Abstract 
   - [ ] Thesis title = 
