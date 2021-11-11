@@ -1,4 +1,18 @@
 
+@article{Cardenas2008Mar,
+	author = {Cardenas, Juan Camilo and Carpenter, Jeffrey},
+	title = {{Behavioural Development Economics: Lessons from Field Labs in the Developing World}},
+	journal = {Journal of Development Studies},
+	volume = {44},
+	number = {3},
+	pages = {311--338},
+	year = {2008},
+	month = {Mar},
+	issn = {0022-0388},
+	publisher = {Routledge},
+	doi = {10.1080/00220380701848327}
+}
+
 @article{West2008Aug,
 	author = {West, Stephen G. and Duan, Naihua and Pequegnat, Willo and Gaist, Paul and Jarlais, Don C. Des and Holtgrave, David and Szapocznik, Jos{\ifmmode\acute{e}\else\'{e}\fi} and Fishbein, Martin and Rapkin, Bruce and Clatts, Michael and Mullen, Patricia Dolan},
 	title = {{Alternatives to the Randomized Controlled Trial}},
