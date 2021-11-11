@@ -17,4 +17,4 @@ Two datasets are produced from the experiment, the first is a quantitative datas
 The structuring of the field-experiment requires participants to self-select their participation by identifiying themselves as researcher who actively participate in a common research division, discpline and subject (as defined by the Australian Government's Bureau of Statistic).
  -  [ ] [Australian Bureau of Statistics Classification of government funded R&D activities](https://www.abs.gov.au/ausstats/abs@.nsf/bb8db737e2af84b8ca2571780015701e/44871FAF47845EE1CA25697E0018FD1E?opendocument)
  -  [ ] [Wikipedia page for the ARC](https://en.wikipedia.org/wiki/Australian_Research_Council)
- -  [ ] 
+ -  [ ] [Australian Research Council Act 2001](https://www.legislation.gov.au/Series/C2004A00773) "research program" 
