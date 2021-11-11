@@ -2,7 +2,8 @@
 To read:
  - [ ] https://en.wikipedia.org/wiki/Instrumental_variables_estimation
  - [ ] https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity_(statistics)
- - [ ] symetrical vs asymetrical 
+ - [ ] symetrical vs asymetrical experimental designs
+ - [ ] [Encouragement designs for self-selected samples in experimental design](https://link.springer.com/article/10.1023/A:1008045618501)
 
 # Methodology review:
  - [x] Behavioural development economics field tests by Ostrom and [Cardenas](https://scholar.google.com.co/citations?user=yfeFFpIAAAAJ&hl=en)
