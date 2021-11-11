@@ -18,3 +18,6 @@ The structuring of the field-experiment requires participants to self-select the
  -  [ ] [Australian Bureau of Statistics Classification of government funded R&D activities](https://www.abs.gov.au/ausstats/abs@.nsf/bb8db737e2af84b8ca2571780015701e/44871FAF47845EE1CA25697E0018FD1E?opendocument)
  -  [ ] [Wikipedia page for the ARC](https://en.wikipedia.org/wiki/Australian_Research_Council)
  -  [ ] [Australian Research Council Act 2001](https://www.legislation.gov.au/Series/C2004A00773) "research program" 
+
+## Framework for evaluating each qualitative interview with game participants
+![image](https://user-images.githubusercontent.com/92492030/141243190-9dcc2f7f-5dcd-42bf-80ad-58b558ba69d4.png) via: https://core.ac.uk/download/pdf/7105016.pdf
