@@ -4,26 +4,45 @@
 
 ## Timeline
  -  [ ] 2021-06-21 = PhD start date
-       * Q1
-       * Q2
        * Q3
        * Q4
  -  [ ] 2022
-       * Q1
-       * Q2
-       * Q3
-       * Q4
+       * Q1 = Milestone 1 Due Feb 9th
+       * Q2 = Alpha field experiment run with COKI lab
+       * Q3 = Evaluation of quantitative and qualitative data outputs from alpha field experiment.
+       * Q4 = publication of alpha field experiment
  -  [ ] 2023
+       * Q1 = apply for research funding to run Beta field experiment with 3-7 groups of researchers (7x ppl per group)
+       * Q2 = recruitment of discplinary research groups for field experiment
+       * Q3 = Beta field experiment run
+       * Q4 = evaluation of quantitative and qualitative research data outputs
+ -  [ ] 2024
+       * Q1 = Milestone 2 report on progress of PhD 
+       * Q2
+       * Q3
+       * Q4
+ -  [ ] 2025
        * Q1
        * Q2
        * Q3
        * Q4
- -  [ ] 2024
- -  [ ] 2025
  -  [ ] 2026
+       * Q1
+       * Q2
+       * Q3
+       * Q4
  -  [ ] 2027
+       * Q1
+       * Q2
+       * Q3
+       * Q4
  -  [ ] 2028
- -  [ ] 2029-06-30 = End date
+       * Q1
+       * Q2
+       * Q3
+       * Q4
+ -  [ ] 2029-06-30 = PhD End Date
+ -  [ ] 2030 = Disciplinarit[i] consultancy service established: evaluation of funded research groups for interdisciplinary probability in Universities and Research Councils
 
 
  
