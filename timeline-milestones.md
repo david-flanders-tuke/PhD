@@ -4,12 +4,12 @@ Table of contents for this page:
  - [x] Milestones
 
 ## Timeline
- -  [ ] 2021-06-21 = PhD start date
-       * Q3
-       * Q4
+ -  [x] 2021-06-21 = PhD start date
+       * Q3 = Research supervisor introductions
+       * Q4 = Research proposal preparation
  -  [ ] 2022
        * Q1 = Milestone 1 Due Feb 9th
-       * Q2 = Alpha field experiment run with COKI lab
+       * Q2 = Alpha field experiment with COKI lab
        * Q3 = Evaluation of quantitative and qualitative data outputs from alpha field experiment.
        * Q4 = publication of alpha field experiment
  -  [ ] 2023
