@@ -4,6 +4,8 @@ To read:
  - [ ] https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity_(statistics)
  - [ ] symetrical vs asymetrical experimental designs
  - [ ] [Encouragement designs for self-selected samples in experimental design](https://link.springer.com/article/10.1023/A:1008045618501)
+ - [ ] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2446460/
+ - [ ] [group testing pooling test experiments to identify positive results](https://www.nature.com/articles/d41586-020-02053-6) via group testing: https://en.wikipedia.org/wiki/Group_testing
 
 # Methodology review:
  - [x] Behavioural development economics field tests by Ostrom and [Cardenas](https://scholar.google.com.co/citations?user=yfeFFpIAAAAJ&hl=en)
