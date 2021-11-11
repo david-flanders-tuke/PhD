@@ -1,6 +1,7 @@
 # Curtin University Requirements for PhD Milestone 1
- - [ ] Timelines
- - [ ] Milestone
+Table of contents for this page: 
+ - [x] Timeline
+ - [x] Milestones
 
 ## Timeline
  -  [ ] 2021-06-21 = PhD start date
