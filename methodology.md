@@ -9,8 +9,10 @@ To read:
  - [x] Natural experimentation for comparitive cause/casulity probailities, as defined by Noble Prize winners in Economics (Joshua D. Angrist and Guido W. Imbens): [Identification and estimate of local average treatment effects](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
 
 ## Field test for collective action theory for common pool resources
-
  - [ ] To add from: https://etherpad.opendev.org/p/flanders-phd-cloud-graph-databases
+ - [ ] Other common/private/public goods experiments
+   * [open ended private good question](https://www.sciencedirect.com/science/article/abs/pii/S0095069697910159)
+   * 
 
 ## Natural experimentation methodology
  - AKA ['identification and estimation of local average treatment effects'](https://www.nber.org/system/files/working_papers/t0118/t0118.pdf)
