@@ -1,7 +1,7 @@
-Authors:
+Authors (Research group: Centre for Culture and Technology, COKI Lab)
  - [ ] David Flanders Tuke <david.flanders@postgrad.curtin.edu.au>
  - [ ] Karl Huang <karl.huang@curtin.edu.au>
- - [ ] Katie Wilson <katie.wilson@curtin.edu.au>
+ - [ ] [Katie Wilson](https://orcid.org/0000-0001-8705-1027) <katie.wilson@curtin.edu.au>
  - [ ] Cameron Neylon <cameron.neylon@curtin.edu.au>
 
 Other shoulders stood upon:
