@@ -2,7 +2,28 @@
  - [ ] Timelines
  - [ ] Milestone
 
-## Timelines
+## Timeline
+ -  [ ] 2021-06-21 = PhD start date
+       * Q1
+       * Q2
+       * Q3
+       * Q4
+ -  [ ] 2022
+       * Q1
+       * Q2
+       * Q3
+       * Q4
+ -  [ ] 2023
+       * Q1
+       * Q2
+       * Q3
+       * Q4
+ -  [ ] 2024
+ -  [ ] 2025
+ -  [ ] 2026
+ -  [ ] 2027
+ -  [ ] 2028
+ -  [ ] 2029-06-30 = End date
 
 
  
