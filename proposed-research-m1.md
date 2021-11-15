@@ -2,8 +2,15 @@
 https://students.curtin.edu.au/wp-content/uploads/sites/6/2019/10/FACT-SHEET-Research-Proposal-Information-14.10.2019.pdf
 
 ## 1. Title and Abstract 
-  - [ ] Thesis title = 
-  - [ ] Abstract = 
+Thesis title(s)
+  - [ ] Information marketplaces styles and the design of collaboration-based research products.
+  - [ ] The games researchers play: marketplace styles and the design of common pool research resources 
+  - [ ] How do researchers decide the games they want to play?
+  - [ ] Deciding which marketplaces you want your research outputs to merit?
+  - [ ] University library information architectures and the design of collaborative research marketplace pools
+
+Abstact(s)
+ - [ ] 
  
 ## 2. Background 
   - [ ] literature review of field
