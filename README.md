@@ -29,7 +29,7 @@ Who derives value?
 What value is manifested?
  - [ ] Evaluate and make explicit cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools?  How can industry derive value from the R&D from scholars?
 
-Why does the experiment make research marketplaces explicit for each group of researcher's who participate?
+Why does the experiment make research marketplaces product values explicit for each group of researcher's who participate?
  - [ ] Theoretical: socioeconomics aka new institutional economics and collective action theory.
  - [ ] Field experiment: game-theory (nash equilibrium, pareto optimal, tragedy of the commons) and cooperation behavioural governance.
 
