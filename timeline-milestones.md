@@ -1,12 +1,12 @@
 # Curtin University Requirements for PhD Milestone 1
 Table of contents for this page: 
- - [x] Timeline
- - [x] Milestones
+ - [x] Timeline = iterative experimentation: alpha --> beta --> delta
+ - [x] Milestones = M1 --> M2 --> M3 --> PhD submission
 
 ## Timeline
  -  [x] 2021-06-21 = PhD start date
        * Q3 = Research supervisor introductions
-       * Q4 = Research proposal preparation
+       * Q4 = Research proposal preparation and ethics approval submission
  -  [ ] 2022
        * Q1 = Milestone 1 Due Feb 9th
        * Q2 = Alpha field experiment with COKI lab
@@ -45,8 +45,6 @@ Table of contents for this page:
  -  [ ] 2029-06-30 = PhD End Date
  -  [ ] 2030 = Disciplinarit[i] consultancy service established: evaluation of funded research groups for interdisciplinary probability in Universities and Research Councils
 
-
- 
 ## Milestones
  - [ ] [Condition required by Director of Graduate Research for your school in reviewing you Milestone 1 application](https://students.curtin.edu.au/essentials/higher-degree-by-research/milestones/)
 
