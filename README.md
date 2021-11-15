@@ -1,5 +1,5 @@
 # Field experiment aim
-The aim of this repository is to provide all the information and guides required to run a field experiment with research groups for the purpose of evaluating collaborative marketplace optimisation. The objectives of the field experiment are:
+The aim of this repository is to provide all the information and guides required to run a field experiment with research groups for the purpose of evaluating collaborative marketplace researcher optimisation. The objectives of the field experiment are:
   1. empower researcher to agree the shared value they will derive by declaring which marketplaces will derive value from their research outputs;
   2. engender research organisations to keep their marketplace outputs accountable and meritable, esp University promotions; and
   3. enable research funding organisations to evaluate the optimal use of common pool resources, e.g. ARC taxpayer funded grants to researchers.  
