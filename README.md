@@ -1,7 +1,12 @@
-# Experiment in collective action theory
-This repository provides all the information and guides required to run a field experiment in collective action socioeconomics for the purpose of evaluating research group optimisation. The purpose of this repository is to enable research organisations to evaluate the optimal use of common pool resources like taxpayer funded grants to researchers.  [If you are interested in running this experiment and sharing your results please contact the COKI Lab at Curtin University](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).
+# Field experiment aim
+The aim of this repository is to provide all the information and guides required to run a field experiment with research groups for the purpose of evaluating collaborative marketplace optimisation. The objectives of the field experiment are:
+  1. empower researcher to agree the shared value they will derive by declaring which marketplaces will derive value from their research outputs;
+  2. engender research organisations to keep their marketplace outputs accountable and meritable, esp University promotions; and
+  3. enable research funding organisations to evaluate the optimal use of common pool resources, e.g. ARC taxpayer funded grants to researchers.  
 
-Invitation to facilitate a field experiment at your institution:
+[If you are interested in running this experiment and sharing your results please contact the COKI Lab at Curtin University](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).
+
+## Invitation to facilitate a field experiment at your institution:
   - [x] Librarians and other University administrative centres responsible for calculating research values
   - [x] PhD students and local labs wanting an insight into how a research group can most efficiently cooperate
   - [x] Research funding council programme managers and other research grant funding bodies who would like to evaluate how best to enable optimal use of reserch fudning grants.
