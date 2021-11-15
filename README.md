@@ -20,15 +20,28 @@ We would humbly invite field experiment facilitators, esp University administrat
  - [x] delivery of results from field experiment and ethical implications; and
  - [x] metadata of who supports the field experiment; and
 
-## Purpose of experiment
- - [ ] Evaluate cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools?
+## [Experiment purpose](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
+Who derives value?
+ - [ ] What is the value which research groups will gain by participating in this experiment?
+ - [ ] What value will research organisations like Universities gain by encouraging their researchers to participate in this experiment?
+ - [ ] Why should research funding coucils care about the outcomes of these experiments and the implications it has for taxpayer funded research grants?
 
-## [Experiment literature review](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
+What value is manifested?
+ - [ ] Evaluate and make explicit cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools?  How can industry derive value from the R&D from scholars?
+
+Why does the experiment make research marketplaces explicit for each group of researcher's who participate?
  - [ ] Theoretical: socioeconomics aka new institutional economics and collective action theory.
  - [ ] Field experiment: game-theory (nash equilibrium, pareto optimal, tragedy of the commons) and cooperation behavioural governance.
- - [ ] Experimental analysis: quantitative *&* qualitative.
 
-## [Experiment facilitation and methodology](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
+How are the results of the field experiment communicated and what implications (call to action) are derived from each experiment?
+ - [ ] Experimental analysis: quantitative *&* qualitative.
+ - [ ] There are no panaceas!
+
+Where and when does the group experiment take place?
+ - [ ] Where: Virtual vs Real-Lyf?
+ - [ ] When: prep and post timelines
+
+## [Experiment facilitation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
  - [ ] Invites to participants and required experimental permissions
  - [ ] Instruction for administering the experiment by a monitor
  - [ ] Post experiment survey and interviews
