@@ -1,16 +1,19 @@
 # Experiment in collective action theory
 This repository provides all the information and guides required to run a field experiment in collective action socioeconomics for the purpose of evaluating research group optimisation. The purpose of this repository is to enable research organisations to evaluate the optimal use of common pool resources like taxpayer funded grants to researchers.  [If you are interested in running this experiment and sharing your results please contact the COKI Lab at Curtin University](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).
 
-Invitation to experiment:
+Invitation to facilitate a field experiment at your institution:
   - [x] Librarians and other University administrative centres responsible for calculating research values
   - [x] PhD students and local labs wanting an insight into how a research group can most efficiently cooperate
   - [x] Research funding council programme managers and other research grant funding bodies who would like to evaluate how best to enable optimal use of reserch fudning grants.
 
-Table of contents:
- - [x] Purpose of a field experiment in collective action theory for socioeconomics
- - [x] Literature review of collective action theory by Ostrom, Cardenas, et al
- - [x] Methodology of field experiment for collection action socioeconomics
- - [x] Administering a field experiment in collective action socioeconomics
+### On this page: what you'll need to run the field experiment
+ - [x] purpose of the field experiment and supporting [literature review](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md);
+ - [x] [methodology](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md) of field experiment and participation requirements;
+ - [x] administering the field experiment to [participants](https://github.com/david-flanders-tuke/PhD/blob/main/participants.md) on the day;
+ - [x] analysis of the [data](https://github.com/david-flanders-tuke/PhD/blob/main/dataset.md) generated from the field experiment;
+ - [x] delivery of results from field experiment and [ethical](https://github.com/david-flanders-tuke/PhD/blob/main/ethic.md) implications;
+ - [x] [bibliography](https://github.com/david-flanders-tuke/PhD/blob/main/bibliography.md) of reserach supporting the field experiment; and
+ - [x] [about](https://github.com/david-flanders-tuke/PhD/blob/main/about.md) the research lab collecting these results from this open source experiment.
 
 ## Purpose of experiment
  - [ ] Evaluate cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools?
