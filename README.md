@@ -51,7 +51,7 @@ Where and when does the group experiment take place?
 
 ## [Experiment data analysis](https://github.com/david-flanders-tuke/PhD/blob/main/dataset.md)
 The experiment, will result in two datasets: 
- - [ ] (a) quantitative statistical prediction for the group behaviour's liklihood of optimisation: each experimental group will be categorised according to the "bids" they put forward in each round of the game. The analysis of the group participation will categorise each group into which kind of marketplace they prefer their research to engender: Pareto optimal (work collaboratively to optimise taxpayer funds), Nash equilibrium (contractually divide up funds) and/or tragedy of commons (keep their research to themselves).
+ - [ ] (a) quantitative statistical prediction for the liklihood of group optimisation: each experimental group will be categorised according to the "bids" they put forward in each round of the game. The analysis of the group participation will categorise each group into which kind of marketplace they prefer their research to engender: Pareto optimal (work collaboratively to optimise taxpayer funds), Nash equilibrium (contractually divide up funds) and/or tragedy of commons (keep their research to themselves).
  - [ ] (b) qualitative interview analysis of individual's survey data on social-behavioural decision making: after the game-experiment a transcribed interview with each participant will take place, which will go through each round of the game and the scores they provided to evaluate their individual (internal behavioural) decision model. The original framework for the model is a three layer onion: individual value, shared group value and perceived payoff value. 
 
 The evaluation for (a) and (b) datasets as custom insights for University and Research Council insights into each research group could include:
@@ -62,9 +62,9 @@ The evaluation for (a) and (b) datasets as custom insights for University and Re
 ## [Experiment approvals](https://github.com/david-flanders-tuke/PhD/blob/main/ethic.md)
 The following list of documents provide evidence by Curtin University for conduting a research experiment on humans as part of PhD research:
  - [x] Ethics approval for human experimentation aka embarrassing behaviour during a game-like workshop
- - [ ] To share or not to share?!  How it can help the Curtin Open Knowledge Initative...
+ - [ ] To share or not to share?!  How our data can help Curtin University build a larger map of scholarly knowledge marketplaces.
 
-Other related documents for purposes of transparency (not required for experiment)
+Other related documents for purposes of transparency (not required for experiment as workshop)
  - [x] Research Data Managmeent Plan
  - [x] Research Integrity Training
 
