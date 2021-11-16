@@ -27,7 +27,8 @@ Who derives value?
  - [ ] Why should research funding coucils care about the outcomes of these experiments and the implications it has for taxpayer funded research grants?
 
 What value is manifested?
- - [ ] Evaluate and make explicit cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools?  How can industry derive value from the R&D from scholars?
+ - [ ] Evaluate and make explicit cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools? 
+ - [ ]  How can industry derive value from the R&D from scholars?
 
 Why does the experiment make research marketplaces product values explicit for each group of researcher's who participate?
  - [ ] Theoretical: socioeconomics aka new institutional economics and collective action theory.
