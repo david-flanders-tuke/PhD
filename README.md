@@ -15,7 +15,7 @@ We would humbly invite field experiment facilitators, esp University administrat
 ### On this page: what you'll need to run the field experiment
  - [x] purpose of the field experiment and supporting literature review;
  - [x] methodology of field experiment and participation requirements;
- - [x] administering the field experiment to [participants](https://github.com/david-flanders-tuke/PhD/blob/main/participants.md) on the day;
+ - [x] administering the field experiment to participants on the day; 
  - [x] analysis of the data generated from the field experiment;
  - [x] delivery of results from field experiment and ethical implications; and
  - [x] metadata of who supports the field experiment; and
@@ -42,7 +42,7 @@ Where and when does the group experiment take place?
  - [ ] When: prep and post timelines
 
 ## [Experiment facilitation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
- - [ ] Invites to participants and required experimental permissions
+ - [ ] [Invites to participants and required experimental permissions](https://github.com/david-flanders-tuke/PhD/blob/main/participants.md)
  - [ ] Instruction for administering the experiment by a monitor
  - [ ] Post experiment survey and interviews
  - [ ] Data collective from experiment and statistical interpretation
