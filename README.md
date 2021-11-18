@@ -9,8 +9,9 @@ The aim of this repository is to provide the guides required to run a field expe
 ## Invitation to experiment
 We would humbly invite field experiment facilitators, esp University administrators:
  - [x] librarians and other University administrative centres responsible for calculating research value;
- - [x] postgraduate students and local labs wanting an insight into research group collaboration; and
- - [x] research funding councils and other research grant funding bodies who would like to evaluate how best to enable optimal use of reserch funding grants.
+ - [x] postgraduate students and local labs wanting an insight into research group collaboration,
+ - [x] research funding councils and other research grant funding bodies who would like to evaluate how best to enable optimal use of reserch funding grants; and
+ - [x] publishers looking to support their customers with the marketplaces for their research outputs.
 
 ### On this page: what you'll need to run the field experiment
  - [x] purpose of the field experiment and supporting literature review;
