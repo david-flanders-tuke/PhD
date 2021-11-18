@@ -18,7 +18,7 @@ We would humbly invite field experiment facilitators, esp University administrat
  - [x] administering the field experiment to participants on the day; 
  - [x] analysis of the data generated from the field experiment;
  - [x] delivery of results from field experiment and ethical implications; and
- - [x] metadata of who supports the field experiment; and
+ - [x] metadata of who supports the field experiment.
 
 ## [Experiment purpose](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
 Who derives value?
