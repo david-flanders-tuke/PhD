@@ -1,3 +1,5 @@
+for monitors
+
 # Field experiment aim
 The aim of this repository is to provide the guides required to run a field experiment with research groups for the purpose of evaluating collaborative marketplace researcher optimisation. The objectives of the field experiment are:
   1. empower researcher to agree the shared value they will derive by declaring their prefered maketplaces for research outputs;
@@ -12,6 +14,10 @@ We would humbly invite field experiment facilitators, esp University administrat
  - [x] postgraduate students and local labs wanting an insight into optimal research group collaboration evaluation,
  - [x] research funding councils and other research grant funding bodies who would like to evaluate how best to enable optimal use of reserch funding grants; and
  - [x] publishers looking to support their customers with the marketplaces for their research outputs.
+
+Katie: 
+ - different 
+ - MCASI 2x groups of 5-7ppl
 
 ### On this page: what you'll need to run the field experiment
  - [x] purpose of the field experiment and supporting literature review;
@@ -43,12 +49,24 @@ Where and when does the group experiment take place?
  - [ ] Where: Virtual vs Real-Lyf?
  - [ ] When: prep and post timelines
 
+Katie:
+ - timeliine for ethics
+ - if low risk embarrassment - information sheet for participants? - you will be working with others - tick box that they have read it: "I am aware I will be participating and sharing my ideas with others in my group" - they can't compain that they didn't know this would be happening.
+
 ## [Experiment facilitation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
  - [ ] [Invites to participants and required experimental permissions](https://github.com/david-flanders-tuke/PhD/blob/main/participants.md)
  - [ ] Instruction for administering the experiment by a monitor
  - [ ] Post experiment survey and interviews
  - [ ] Data collective from experiment and statistical interpretation
  - [ ] Experimental results and recommendations
+
+Katie:
+ - recruitment invitation nees to be a range of people and why it is important to have that wider group 
+ - gender equality - 
+ - disciplinary but bound together around a common bond.
+ - Aboriginal and/or Torres Straight Islanders researchers would require full ethics approval: Maori researchers have said it is not their's to share.
+ - Katie to send research on aborginal and torres straight islanders.
+ - 
 
 ## [Experiment data analysis](https://github.com/david-flanders-tuke/PhD/blob/main/dataset.md)
 The experiment, will result in two datasets: 
