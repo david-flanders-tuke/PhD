@@ -1,7 +1,7 @@
 for monitors
 
 # Field experiment aim
-The aim of this repository is to provide the guides required to run a field experiment with research groups for the purpose of evaluating collaborative marketplace researcher optimisation. The objectives of the field experiment are:
+The aim of this repository is to provide the guides required to run a field experiment with research groups for the purpose of evaluating collaborative marketplace optimisation. The objectives of the field experiment are:
   1. empower researcher to agree the shared value they will derive by declaring their prefered maketplaces for research outputs;
   2. engender research organisations to keep their marketplace outputs accountable and meritable, esp University promotions; and
   3. enable research funding organisations to evaluate the optimal use of common pool resources, e.g. ARC taxpayer funded grants to researchers.  
@@ -15,29 +15,27 @@ We would humbly invite field experiment facilitators, esp University administrat
  - [x] research funding councils and other research grant funding bodies who would like to evaluate how best to enable optimal use of reserch funding grants; and
  - [x] publishers looking to support their customers with the marketplaces for their research outputs.
 
-Katie: 
- - different 
- - MCASI 2x groups of 5-7ppl
-
 ### On this page: what you'll need to run the field experiment
  - [x] purpose of the field experiment and supporting literature review;
  - [x] methodology of field experiment and participation requirements;
  - [x] administering the field experiment to participants on the day; 
  - [x] analysis of the data generated from the field experiment;
  - [x] delivery of results from field experiment and ethical implications; and
- - [x] metadata of who supports the field experiment.
+ - [x] metadata to support the field experiment.
 
 ## [Experiment purpose](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
-Who derives value?
- - [ ] What is the value which research groups will gain by participating in this experiment?
- - [ ] What value will research organisations like Universities gain by encouraging their researchers to participate in this experiment?
- - [ ] Why should research funding coucils care about the outcomes of these experiments and the implications it has for taxpayer funded research grants?
+*Who derives value?*
+ - [ ] How many people are required for this experiment? - 5-7 people per workshop group, with each member of the group being familiar with the other researchers in the gorup, e.g. ideally discplinary researchers who work in similar subject areas.
+ - [ ] What is the value which research groups will gain by participating in this experiment? - each researcher will be categorised into their preferred marketplace type, e.g. researcher who prefer optimised open marketplaces will achieve a 'Pareto optimal' score.
+ - [ ] What value will research organisations (like Universities) gain by encouraging their researchers to participate in this workshop-experiment? - Making researcher expectations explicit enables clear expecations for measuring outcomes, both promotion and sanction.
+ - [ ] Why should research funding coucils care about the outcomes of these experiments and the implications it has for taxpayer funded research grants? - researcher's spending taxpayer funds are obliged to define how their efforts will benefit the taxpayer and how they expect that marketplace to measure value.
 
-What value is manifested?
- - [ ] Evaluate and make explicit cooperation tactics (via game theory) of researchers' use of common pool resources, e.g. what is the most efficient way to use taxpayer funds like the Australian Research Council's common funding pools? 
- - [ ]  How can industry derive value from the R&D from scholars?
+*What value is manifested?*
+ - [ ] What is the most efficient way to use taxpayer funds like the Australian Research Council's grants (aka common funding pools)? - Researcher's spending taxpayer funds are obliged to achieve value for the investments they receive: this experiment provides trajectories for how value can be achieved.
+ - [ ] How can industry derive value from the R&D produced by scholars? - measuring scholarly outputs via a range of marketplaces enables researchers (and their funders) to report on the expected value which will be achieved from the declared research ouputs.
+ - [ ] 
 
-Why does the experiment make research marketplaces product values explicit for each group of researcher's who participate?
+*Why does the experiment make research marketplaces product values explicit*
  - [ ] Theoretical: socioeconomics aka new institutional economics and collective action theory.
  - [ ] Field experiment: game-theory (nash equilibrium, pareto optimal, tragedy of the commons) and cooperation behavioural governance.
 
