@@ -1,12 +1,12 @@
 for monitors
 
 # Field experiment aim
-The aim of this repository is to provide the guides required to run a field experiment with research groups for the purpose of evaluating collaborative marketplace optimisation. The objectives of the field experiment are:
+The aim of this repository is to provide instructions for carrying out a workshop which will evaluate researcher groups (5-7ppl) for their 'group efficiency index' (as defined by Ostrom, Pareto, Nash, et al).  This field experiment will evaluate research groups for their efficiency to produce collaborative research products for diverse marketplaces (commons, open access, proprietary, etc. The objectives of this behavioural economics field experiment are:
   1. empower researcher to agree the shared value they will derive by declaring their prefered maketplaces for research outputs;
   2. engender research organisations to keep their marketplace outputs accountable and meritable, esp University promotions; and
   3. enable research funding organisations to evaluate the optimal use of common pool resources, e.g. ARC taxpayer funded grants to researchers.  
 
-[If you are interested in running this experiment and sharing your results please contact the COKI Lab at Curtin University](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).
+[If you are interested in running this experiment and privately sharing your data to generate 'researcher efficiency ranks' please contact the COKI Lab at Curtin University](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).  NB All data pertaining to individual researchers and/or identifable research groups will be kept private under correspnding legislation.
 
 ## Invitation to experiment
 We would humbly invite field experiment facilitators, esp University administrators:
@@ -24,26 +24,31 @@ We would humbly invite field experiment facilitators, esp University administrat
  - [x] metadata to support the field experiment.
 
 ## [Experiment purpose](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
-*Who derives value?*
+The resulting data which this workshop provides, is an index of research groups and their statistical 'efficiency value' as originally calculated by Ostrom et al which resulted in the 2009 Noble Prize in Economic Sciences.  The game theory methods used in this experiment calculate the optimal value which can be acheived by a group of researchers producing research objectcs for commons marketplaces.
+
+### Frequently Asked Questions (FAQ)
+*Who derives value from this experiment?*
  - [ ] How many people are required for this experiment? - 5-7 people per workshop group, with each member of the group being familiar with the other researchers in the gorup, e.g. ideally discplinary researchers who work in similar subject areas.
- - [ ] What is the value which research groups will gain by participating in this experiment? - each researcher will be categorised into their preferred marketplace type, e.g. researcher who prefer optimised open marketplaces will achieve a 'Pareto optimal' score.
+ - [ ] What is the value which research groups will gain by participating in this experiment? - each researcher will be categorised into their preferred marketplace type with a resulting value for the level of efficiency they achieve in playing the group game.
  - [ ] What value will research organisations (like Universities) gain by encouraging their researchers to participate in this workshop-experiment? - Making researcher expectations explicit enables clear expecations for measuring outcomes, both promotion and sanction.
- - [ ] Why should research funding coucils care about the outcomes of these experiments and the implications it has for taxpayer funded research grants? - researcher's spending taxpayer funds are obliged to define how their efforts will benefit the taxpayer and how they expect that marketplace to measure value.
+ - [ ] Why should research funding coucils care about the outcomes of these experiments and the implications it has for taxpayer funded research grants? - researcher's spending taxpayer funds are obliged to define how their efforts will benefit the taxpayer and how they expect their preferrred marketplace to measure value.
 
 *What value is manifested?*
- - [ ] What is the most efficient way to use taxpayer funds like the Australian Research Council's grants (aka common funding pools)? - Researcher's spending taxpayer funds are obliged to achieve value for the investments they receive: this experiment provides trajectories for how value can be achieved.
+ - [ ] What is the most efficient way to use taxpayer funds like the Australian Research Council's grants (aka common funding pools)? - Researcher's spending taxpayer funds are obliged to achieve value for the investments they receive: this experiment provides trajectories for how value can be optimised.
  - [ ] How can industry derive value from the R&D produced by scholars? - measuring scholarly outputs via a range of marketplaces enables researchers (and their funders) to report on the expected value which will be achieved from the declared research ouputs.
- - [ ] 
 
-*Why does the experiment make research marketplaces product values explicit*
- - [ ] Theoretical: socioeconomics aka new institutional economics and collective action theory.
- - [ ] Field experiment: game-theory (nash equilibrium, pareto optimal, tragedy of the commons) and cooperation behavioural governance.
+*Why does the experiment evaluate researchers as groups (vs individual research rank like h-index)?*
+ - [ ] What are the theoretical foundations for ranking research groups in terms of their value, efficiency and marketplace type? - Behavioural economics and socioeconomics researchers (aka new institutional economics) have pioneered new field experiment methods for evaluating the institutional policies which can demonstrably enhance collective action marketplaces like taxpayer funded research grants.
+ - [ ] Why should we ask researcher to self-evaluate their performance as a collective group?  Nash, Pareto and Ostrom have provided game-theory methods which enable the measurement of collective action to achieve optimal efficiency, e.g. researchers have an obligation to taxpayers to project the marketplace value they will be able to achieve in producing research products.
 
-How are the results of the field experiment communicated and what implications (call to action) are derived from each experiment?
- - [ ] Experimental analysis: quantitative *&* qualitative.
- - [ ] There are no panaceas!
+*How are the results of the field experiment communicated?* 
+ - [ ] How can researchers trust that the data resulting from this experiment will not adversly affect their carreer?
+ - [ ] What implications (call to action) are derived from each experiment? - Penidng the choice of experiment participants, the resulting analysis index from each workshop will result in a ranking for how efficient the collective action of each group is which can inform the value a research group has within an insitutional or disciplinary context.
+ - [ ] Who will evaluate the experimental data and how will it be shared? - Individual consultation with each group member will take place post-workshop to provide qualitative analysis for the reasons behind each strategic decision.  If the group decides not to share their collective efficiency rank, individual's will be provided insight on their personal preferences for the types of marketplaces they prefer for their research.
+ - [ ] Does the efficiency index compare research groups with one another competitively? - ["There are no panaceas!"](https://www.pnas.org/content/104/39/15181)
 
-Where and when does the group experiment take place?
+*Where and when does the group experiment take place?*
+TBD
  - [ ] Where: Virtual vs Real-Lyf?
  - [ ] When: prep and post timelines
 
