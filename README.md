@@ -4,7 +4,7 @@ The aim of this repository is to provide instructions for carrying out a worksho
   2. engender research organisations to keep their marketplace outputs accountable and meritable, esp University promotions; and
   3. enable research funding organisations to evaluate the optimal use of common pool resources, e.g. ARC taxpayer funded grants to researchers.  
 
-[If you are interested in running this experiment and privately sharing your data to generate 'researcher efficiency ranks' please contact the COKI Lab at Curtin University](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).  NB All data pertaining to individual researchers and/or identifable research groups will be kept private under correspnding legislation.
+[If you are interested in running this experiment and privately sharing your data to generate 'researcher efficiency ranks' please contact the COKI Lab at Curtin University](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).  NB All data pertaining to individual researchers and/or identifable research groups will be kept private under corresponding legislation.
 
 ## Invitation to experiment
 We would humbly invite field experiment facilitators, esp University administrators:
