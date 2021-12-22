@@ -22,7 +22,7 @@ We would humbly invite field experiment facilitators, esp University administrat
  - [x] metadata to support the field experiment.
 
 ## [Experiment purpose](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
-The resulting data which this workshop provides, is an index of research groups and their statistical 'efficiency value' as originally calculated by Ostrom et al which resulted in the 2009 Noble Prize in Economic Sciences.  The game theory methods used in this experiment calculate the optimal value which can be acheived by a group of researchers producing research objectcs for commons marketplaces.
+The resulting data which this workshop provides, is an index of research groups and their statistical 'efficiency value' as originally calculated by Ostrom et al which resulted in the 2009 Noble Prize in Economic Sciences.  The game theory methods used in this experiment calculate the optimal value which can be acheived by a group of researchers producing research outputs for commons marketplaces.
 
 ### Frequently Asked Questions (FAQ)
 *Who derives value from this experiment?*
