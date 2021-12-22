@@ -1,7 +1,5 @@
-for monitors
-
 # Field experiment aim
-The aim of this repository is to provide instructions for carrying out a workshop which will evaluate researcher groups (5-7ppl) for their 'group efficiency index' (as defined by Ostrom, Pareto, Nash, et al).  This field experiment will evaluate research groups for their efficiency to produce collaborative research products for diverse marketplaces (commons, open access, proprietary, etc. The objectives of this behavioural economics field experiment are:
+The aim of this repository is to provide instructions for carrying out a workshop which will evaluate researcher groups (5-7ppl) for their 'group efficiency index' (as defined by Ostrom, Pareto, Nash, et al).  This field experiment will evaluate research groups for their efficiency to produce collaborative research products for diverse marketplaces (commons, open access, proprietary, etc.). The objectives of this behavioural economics field experiment are:
   1. empower researcher to agree the shared value they will derive by declaring their prefered maketplaces for research outputs;
   2. engender research organisations to keep their marketplace outputs accountable and meritable, esp University promotions; and
   3. enable research funding organisations to evaluate the optimal use of common pool resources, e.g. ARC taxpayer funded grants to researchers.  
