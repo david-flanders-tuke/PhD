@@ -25,8 +25,9 @@ Why should experimental field research be conducted with researchers to ascertai
      - [ ] the possibilities for using reputation and reciprocity, and 
      - [ ] the specific rules used in particular settings.
 
-[1]= previous research suggests that these games will end in a "tragedy of the comons" where the resource is accessed until depleted, e.g. in repeated games, the average level of contribution starts at around 50 percent but, without opportunities for communication, slowly decays toward the predicted zero level (Ledyard 1995).
-[2]= neoclassical theory for individuals maximizing material payoffs predicts that individuals tend to contribute, on average, between 40 to 60 percent of their (experimentally) assigned assets in a one-shot game (Davis and Holt 1993; Isaac and Walker 1988).
-[3]= Subjects who are able to sustain cooperation in public good experiments for long periods of time (near optimal Pareto withdrawal levels) are able to outperform competitive markets when they are able to communicate, come to their own agreements, and use agreed-upon punishments if someone deviates from from the agreement (Sally 1995; Isaac and Walker 1988) (Ostrom et al, 1994).
+Nota bena:
+  - [1]= previous research suggests that these games will end in a "tragedy of the comons" where the resource is accessed until depleted, e.g. in repeated games, the average level of contribution starts at around 50 percent but, without opportunities for communication, slowly decays toward the predicted zero level (Ledyard 1995).
+  - [2]= neoclassical theory for individuals maximizing material payoffs predicts that individuals tend to contribute, on average, between 40 to 60 percent of their (experimentally) assigned assets in a one-shot game (Davis and Holt 1993; Isaac and Walker 1988).
+  - [3]= Subjects who are able to sustain cooperation in public good experiments for long periods of time (near optimal Pareto withdrawal levels) are able to outperform competitive markets when they are able to communicate, come to their own agreements, and use agreed-upon punishments if someone deviates from from the agreement (Sally 1995; Isaac and Walker 1988) (Ostrom et al, 1994).
 
 
