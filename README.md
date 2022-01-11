@@ -56,8 +56,8 @@ Katie:
 
 ## [Experiment facilitation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
  - [ ] [Invites to participants and required experimental permissions](https://github.com/david-flanders-tuke/PhD/blob/main/participants.md)
- - [ ] Instruction for administering the experiment by a monitor
- - [ ] Post experiment survey and interviews
+ - [ ] [Instruction for administering the experiment by a monitor](https://github.com/david-flanders-tuke/PhD/blob/main/instructions-experiment.md)
+ - [ ] [Post experiment survey and qualitative decision-motivation interviews](https://github.com/david-flanders-tuke/PhD/blob/main/evaluation-framework_experiment.md)
  - [ ] Data collective from experiment and statistical interpretation
  - [ ] Experimental results and recommendations
 
