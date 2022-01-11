@@ -30,4 +30,20 @@ Nota bena:
   - [2]= neoclassical theory for individuals maximizing material payoffs predicts that individuals tend to contribute, on average, between 40 to 60 percent of their (experimentally) assigned assets in a one-shot game (Davis and Holt 1993; Isaac and Walker 1988).
   - [3]= Subjects who are able to sustain cooperation in public good experiments for long periods of time (near optimal Pareto withdrawal levels) are able to outperform competitive markets when they are able to communicate, come to their own agreements, and use agreed-upon punishments if someone deviates from from the agreement (Sally 1995; Isaac and Walker 1988) (Ostrom et al, 1994).
 
+## Why should researcher groups want to play this game?
+  - [ ] If researchers are expected to work collaboratively, then understanding the expectations for the outputs which are achieved on behalf of the taxpayer should be made explicit within the research group.
+  - [ ] Understanding how individual researchers learn about and interpret the information potentially available to them in a particular situation is an important factor affecting collective decisions.
+  - [ ] Enabling collective decisions which inform self-governed solutions (policies) at the group level can emerge which enhance sustainable use over time;
+  - [ ] Abstracting what crucial attributes are required to sustain management of the common pool resources (Australian Research Council taxpayer pooled funds);
+  - [ ] If taxpayers want research groups to be more efficient by solving problems through group strategies, then research funding agencies should utilise policies which encourage collective action outcomes? 
+
+## What do we want to understand from playing this experimental-game?
+To evaluate the framework of the game, we will collect survey data from the participants (after the completion of the experimental-game) about their perceptions and values for making decisions.
+  - [x] How to adjust the framework (policies/rules), which enable an individual to decide to either cooperate or defect from a local commons problem:
+  - [x] How individuals gather information about the incentives of a situation;
+  - [x] How the context of the group dilema is approached;
+  - [x] How individuals percieve information about themselves.
+
+Nota Bena: games similar to the above were conducted by Cooper 1999, Karlan 2003; however Ostrom et al were the first to propose an experimental common pool resource game where where the subjects context is used to explain variation in experimental behavior.
+
 
