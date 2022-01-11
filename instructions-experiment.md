@@ -46,4 +46,30 @@ To evaluate the framework of the game, we will collect survey data from the part
 
 Nota Bena: games similar to the above were conducted by Cooper 1999, Karlan 2003; however Ostrom et al were the first to propose an experimental common pool resource game where where the subjects context is used to explain variation in experimental behavior.
 
+# Run-sheet instruction for field experiment
+Context of game play for the moderator of the experiment:
+  - [ ] The study of collective action requires an understanding of the "individual incentives" and of the "institutional constraints" that guide people in making choices about 'cooperating' or 'defecting' on the group facing the dilemma. 
+  - [ ] This is an economic experiment (game theory) asking how researchers collectively access taxpayer funds, aka common pool resources (CPRs).
+  - [ ] The game explores the extraction from local CPRs (Australian taxpayer researcher funds), where either: individual extraction increases "well-being", but aggregate extraction decreases it.
+  - [ ] How can groups solve/optimise the problem through self-governing mechanisms (aka policy aka jointly agreed graduated sanctions)
+  - [ ] Cooperation can happen and be chosen by individuals as a rational strategy (vs deciding not to jointly address the problem aka 'tragedy of the commons' aka rational egoist theory aka self-interest economic utility).
+  - [ ] Game assumptions: what are the layers of information that individual researchers might use to decide their layers of cooperation?
+      - [ ] Material incentives that the specific production function imposes?
+      - [ ] Dynamics of the game, e.g. iterative interactions bring reciprocity motives into the decision making process
+      - [ ] Composition of the group and the individual characteristics of the players influences decisions to cooperate or defect in the experiment: (a) prior experience of participants prior experience of the participants; (b) their perception of external regulation; or (c) the composition of the group in terms of their wealth and social position.
+  - [ ] The games results should suggest that understanding the multiple levels of the game has the potential for helping solve collective-action dilema like research collaboration?
+       - [ ] game level incentives: (a) acquire research grant funding from taxpayer funded government funding pools, like the ARC, NHMRC, ARDC, etc.; (b) acquire research grant funding from industry partners.
+       - [ ] game level contexts (group and individual characteristics): (a) individual relationship between researchers; (b) overlap between their fields of study.
 
+## Game rules and play
+  - [ ] Groups of 8 people interacting for 2-4 hours, followed-up by survey with individual researchers.
+  - [ ] To achieve statistical significance (p-value)? => 15x groups = 120 people
+  - [ ] 40 people from each community (assymetric information about people in each group?)
+  - [ ] Rounds of play time equivalence => annual/semester? For example: each player chooses the number of semesters in a year?
+  - [ ] The payoff function table is constructed as a typical common-pool resource dilemma, where individual extractions increased personal gains, but aggregate extractions decreased everyone's gains.
+  - [ ] In each round, each player learns from the experimenter the total extraction level by all eight players.
+      - [ ] For each round players decide to allocate N semesters/years to acquiring ARC funds
+      - [ ] The key payoff benchmark is the social pareto optimum of 1 out of 8 months per player.
+      - [ ] The Nash equilibrium is 6 out of 8 months, e.g. 24% of the optimum.
+  - [ ] All participants are asked to be surveyed/interviewed at the end of each session, this information is used to link their decisions to the game play layers.
+  - [ ] Each player was paid for their time, and a show-up prize provided as incentive.
