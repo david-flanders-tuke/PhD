@@ -38,13 +38,18 @@
   - [ ] [See list of theorectical context for research field experiments of CPR dilemmas](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
  
 ## (III) Methodology and Methods
-[Literature review of CPR methods and game theory experimentation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
+M1 criteria for this section:
   - [ ] research methodlogy
   - [ ] appropriateness & scope in/out
+
+[Literature review of CPR methods and game theory experimentation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
  
 ## (IV) Timeline
+M1 criteria for this section:
   - [ ] Timeline key dates
   - [ ] Gaant chart
+
+[Sandbox for current timelines](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
  
 ## (V) Full project budget
   - [ ] budget table
