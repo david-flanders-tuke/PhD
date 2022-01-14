@@ -37,7 +37,8 @@
   - [ ] With the rise of databases the ability by governments to track and enforce policy rules has increased significantly, as primarily evidenced by China's surveilance regime under the General Secretary of the Chinese Communist Party (CCP) Xi Jinping's administration.  These monitorring and sanctioning methods have increased significantly worldwide, especially in Australia via COVID related policy rules and border enforcement.  University administrations are increasingly monitorring and sancitoning researchers in accordance with institutional policy requirements.  This research will investigate the value of top down-policy reform and its effecitveness in regulating efficiency of collaborative research groups.
   - [ ] [See list of theorectical context for research field experiments of CPR dilemmas](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
  
-## (III) Methodology and Methods 
+## (III) Methodology and Methods
+[Literature review of CPR methods and game theory experimentation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
   - [ ] research methodlogy
   - [ ] appropriateness & scope in/out
  
