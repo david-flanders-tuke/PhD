@@ -33,6 +33,12 @@
   - The catalyst for evaluating research groups and their efficient use of taxpayer funds (or CPR dilemma) was the field experiments carried out by Ostrom and Cardenas in 1996 in Colombia.  These field experiments brought together groups of local Colombian farmers to evaluate their group interactions and what, if any, efficiencies and/or dilemmas arose.  Accordingly, the first part of this PhD research is a replication of this field experiment applied to local research groups. 
   - The hypothetical research questions which arise in these field experiments are two fold: (a) for research groups who are not efficient in their use of taxpayer funding (aka face CPR dilemmas), what behaviourval regularities emerge in the development of improved group collaboration theories, and (b) what types of institutional variables (physical, virtual and policy rules) affect the liklihood of successful resolution of CPR dilemmas?
  
+### Potential value of research within the field
+@Cameron/Karl - I've provided situational evidence by which the research could have value to several field of inquiry, your vote via checkbox is much appreciated:
+  - [ ] The rise of the 'Open Access' movement has questioned the value which taxpayers receive via government funded research council grants. This research will provide a repeatable experiment whereby small groups of likeminded researchers can self-evaluate themselves as a group to determine their collaborative efficiency.
+  - [ ] With the rise of databases the ability by governments to track and enforce policy rules has increased significantly, as primarily evidenced by China's surveilance regime under the General Secretary of the Chinese Communist Party (CCP) Xi Jinping's administration.  These monitorring and sanctioning methods have increased significantly worldwide, especially in Australia via COVID related policy rules and border enforcement.  University administrations are increasingly monitorring and sancitoning researchers in accordance with institutional policy requirements.  This research will investigate the value of top down-policy reform and its effecitveness in regulating efficiency of collaborative research groups.
+  - [ ] [See list of theorectical context for research field experiments of CPR dilemmas](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
+ 
 ## (III) Methodology and Methods 
   - [ ] research methodlogy
   - [ ] appropriateness & scope in/out
