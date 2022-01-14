@@ -3,12 +3,10 @@
  - [x] [Link to presentation slides outlining the below milestone 1 PhD research proposal](https://docs.google.com/presentation/d/e/2PACX-1vQaziQZt2WtoDWuDPNxD3pmtzHlrsYfD70Yl3GhdKKp6HWHX9wp-zzG6MBXmXgbzP0vaiNSGLir-TPf/pub)
 
 ## (I) Title
-@Cameron/Karl - please feel free to tickbox the title which you feel has validity, below:
-  - [ ] Information marketplaces styles and the design of collaboration-based research products.
-  - [ ] The games researchers play: marketplace styles and the design of common pool research resources 
+@Cameron/Karl - please feel free to tickbox the title which you feel has validity or suggest another, below:
+  - [ ] Information marketplaces and the design of collaboration-based research products
+  - [ ] The games researchers play: scholarly marketplace value and the design of common pool research resources 
   - [ ] How do researchers decide the games they want to play? - collaboration as means to achieve efficiency for taxpayer funded research
-  - [ ] Deciding which marketplaces you want your research outputs to merit?
-  - [ ] University library information architectures and their design of collaborative research marketplace pools, aka the future library as a bibliographic bank.
 
 ### Abstact(s)
 @Cameron/Karl - in an attempt to prototype what a 'final thesis abstract' may look like please find the below suggestions, again, please tickbox any which you feel have relevance:
