@@ -19,7 +19,7 @@
 [Draft list of supervisors, contributors and other shoulders on which I've stood](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).
 
 ## (II) Background 
- Criteria for M1 evaluation:
+@Cameron/Karl, below is the M1 criteria for this section, please feel free to add any additional crtieria which you would like expoounded:
   - [ ] Literature review of field
   - [ ] Situates the research project within the field
 
