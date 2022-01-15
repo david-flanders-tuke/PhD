@@ -37,12 +37,21 @@
   - [ ] With the rise of databases the ability by governments to track and enforce policy rules has increased significantly, as primarily evidenced by China's surveilance regime under the General Secretary of the Chinese Communist Party (CCP) Xi Jinping's administration.  These monitorring and sanctioning methods have increased significantly worldwide, especially in Australia via COVID related policy rules and border enforcement.  University administrations are increasingly monitorring and sancitoning researchers in accordance with institutional policy requirements.  This research will investigate the value of top down-policy reform and its effecitveness in regulating efficiency of collaborative research groups.
   - [ ] [See list of theorectical context for research field experiments of CPR dilemmas](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
  
-## (III) Methodology and Methods
+## (III) [Methodology and Methods](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
 M1 criteria for this section:
   - [ ] research methodlogy
   - [ ] appropriateness & scope in/out
 
-[Literature review of CPR methods and game theory experimentation](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
+### Research methodology
+The theorectical foundations proposed by Ostrom et al for common property resource dilemmas are: (a) empircal well grounded theory, and (b) bounded rationality theory.  Both of these theories are interrogated via the Institutional Analysis and Development Framework (IAD) which prescribes the following methodologies and field experiment methods for the first phase of this research:
+  - [ ] The formal experimentation methodology which will be used is 'non cooperative game theory' which fundamentally relies on the 'prisoner's dilemma' matrix to evaluate the individual and group decisions during the field experiment.
+      - [ ] The first phase of this research reproduces the original field experiment, but with a tradeoff in participant ?socio-economic? status: where the orginal participants were rural farmers from Columbia South America, the subjects in this study are University researchers in Australia.  Accordingly, the comparison of these two experimental subjects will juxtapose 'bounded rationality theory', e.g. rural colombian farmers vs Australian academics?
+  - [ ] Statistically, the analysis of the experimental subjects during the game asymetric payoff tables
+  - [ ] NB for the purposes of this doctoral research being conducted in the school of humanities as a 'thesis via accumulation', the componets of this thesis 
+
+### Appropriateness & scope of methodology
+
+
  
 ## (IV) Timeline
 M1 criteria for this section:
