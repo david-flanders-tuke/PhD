@@ -3,13 +3,13 @@
  - [x] [Link to presentation slides outlining the below milestone 1 PhD research proposal](https://docs.google.com/presentation/d/e/2PACX-1vQaziQZt2WtoDWuDPNxD3pmtzHlrsYfD70Yl3GhdKKp6HWHX9wp-zzG6MBXmXgbzP0vaiNSGLir-TPf/pub)
 
 ## (I) Title
-@Cameron/Karl - please feel free to tickbox the title which you feel has validity or suggest another, below:
-  - [ ] Information marketplaces and the design of collaboration-based research products
+Proposed high-level titles for final PhD thesis:
+  - [ ] Institutional design of collaboration-based research policy for scholarly products
   - [ ] The games researchers play: scholarly marketplace value and the design of common pool research resources 
-  - [ ] How do researchers decide the games they want to play? - collaboration as means to achieve efficiency for taxpayer funded research
+  - [ ] How do researchers decide the games (and rules) they want to play? - collaboration as means to achieve efficiency for taxpayer funded research policy
 
 ### Abstact(s)
-@Cameron/Karl - in an attempt to prototype what a 'final thesis abstract' _may_ look like please find the below suggestions, again, please tickbox/edit any which you feel have relevance:
+Proposed high-level abstracts for final PhD thesis:
  - [ ] Global academic publishing companies have succeeded in large part because of the marketplaces they provide researchers to distribute their research outputs.  In order to identify the aspects of the marketplaces that need improvement (and to avoid undesirable modification), a model for a modern marketplace was needed to guide it's design, definition and deployment.
  - [ ] Common pool resource theory provides investigative behavioural economic field experimetns for determining how best to: share and collaborate as a group of researchers, how collaborative research is communicated, how individual research can evolve their researh outputs independently, and how all the above can be described using both formal (quantitative) and informal (qualitative) notations (metadata).  My work is motivated by the desire to understand and evaluate the taxpayer-funded marketplace design of research-based products through experimental constraints, thereby obtaining the functional, performance and social properties desired of a common-pool marketplace.  A proposed marketplace style is investigated in a series of field experiments designed by Ostrom et al.
  - [ ] This dissertation (via cumulation) defines a marketplace framework for understanding common-pool-resources via behavioural-economic styles and demonstrates how styles can be used to guide the marketplace design of network-based research product outputs.  A survey of marketplace styles (game theory) demonstrates how games can be used to classify marketplace styles according to the behavioural properties induced by groups of researchers collaborating to distribute their research products.  I then introduce a scholarly CPR marketplace 'style' (policies) and describe how behavioural policies can used to guide the design and development of scholarly products as knowledge commons products.
@@ -43,30 +43,62 @@ M1 criteria for this section:
   - [ ] appropriateness & scope in/out
 
 ### Research methodology
-The theorectical foundations proposed by Ostrom et al for common property resource dilemmas are: (a) empircal well grounded theory, and (b) bounded rationality theory.  Both of these theories are interrogated via the Institutional Analysis and Development Framework (IAD) which prescribes the following methodologies and field experiment methods for the first phase of this research:
+The theorectical foundations proposed by Ostrom et al for common property resource dilemmas are: (a) empircal well grounded game theory, and (b) bounded rationality theory.  Both of these theories are interrogated via the Institutional Analysis and Development Framework (IAD) which prescribes the following methodologies and field experiment methods for the first phase of this research:
   - [ ] The formal experimentation methodology which will be used is 'non cooperative game theory' which fundamentally relies on the 'prisoner's dilemma' matrix to evaluate the individual and group decisions during the field experiment.
-      - [ ] The first phase of this research reproduces the original field experiment, but with a tradeoff in participant ?socio-economic? status: where the orginal participants were rural farmers from Columbia South America, the subjects in this study are University researchers in Australia.  Accordingly, the comparison of these two experimental subjects will juxtapose 'bounded rationality theory', e.g. rural colombian farmers vs Australian academics?
-  - [ ] Statistically, the analysis of the experimental subjects during the game asymetric payoff tables
-  - [ ] NB for the purposes of this doctoral research being conducted in the school of humanities as a 'thesis via accumulation', the componets of this thesis 
+      - [ ] The first phase of this research reproduces the original field experiment, but with a tradeoff in participant ?socio-economic? status: where the orginal participants were rural farmers from Columbia South America, the subjects in this study are University researchers in Australia.  Accordingly, the comparison of these two experimental subjects will juxtapose 'bounded rationality theory', e.g. What rationality ?biases? exist between Colombian farmers vs Australian academics?
+  - [ ] Statistically, the analysis of the experimental subjects during the game will be via a multi-round asymetric payoff table.  Please see the [formulation of this calculation via the Open Source repository for this research](https://github.com/david-flanders-tuke/PhD/blob/main/evaluation-framework_experiment.md).
+  - [ ] 
+  - [ ] NB for the purposes of this doctoral research being conducted in the school of humanities as a 'thesis via accumulation', the componets of this thesis are outlined in the timeline section (below) of this milestone document.
 
 ### Appropriateness & scope of methodology
 
+#### In scope
+
+#### Out of scope
 
  
-## (IV) Timeline
+## (IV) [Timeline](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
 M1 criteria for this section:
   - [ ] Timeline key dates
   - [ ] Gaant chart
 
-[Sandbox for current timelines](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
+### Timeline & key dates
+The start of this part-time PhD occured as the global pandemic ensued, resulting in this work being isolated from the COKI lab and the research team (Western Australia continues to impose severe border restrictions at the time of writing).  Working with the School of Humanities on a thesis addressing 'collaborative research group behaviours' was identified as an "acute juxtaposed irony".
+  - [ ] For the ongoing timeline of this research project please see the [Open Source repository for this PhD](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
+
+### Gaant chart
+As per Curtin University guidelines for PhD 'thesis via accumulation' it is envisioned that this PhD will have three parts:
+  - [ ] 1. Field experiment(s), including the following scholarly outputs:
+      - [ ] Publication of field experiment results data, both quantiative game analysis and qualitative interview analysis.
+      - [ ] Publication of field experiment in comparison to the original field experiments, as per hypothesised bounded rationlity theory.
+  - [ ] 2. Adaption of the field experiment rules (based on iterative experiments with research groups), including the following scholarly outputs:
+      - [ ] Reformulation of the empirical well grounded game theory to enable additional rules and asymetric analysis.
+      - [ ] Publication of the revised asymetric payoff table for collaborative rule creation.
+  - [ ] 3. Bridging theory into practice, including the following scholarly outputs:
+      - [ ] Case study of specific Australian research groups and the mediation of their policy via collaborative IAD.
+      - [ ] If time permits, adapted field experiments (aka case studies) with other USA, UK and EU research groups to provide further comparison.
  
 ## (V) Full project budget
   - [ ] budget table
-  - [ ] This should, where relevant, include any contributions from sources including your School, any external 
-or industry contributions, Research Office at Curtin support (Research Support Funds) and any other 
-sources of funding.  You may use the template provided below and copy and paste it into your proposal. 
-Examples of student budgets from different disciplines can be found on the GRS website under 
-Supporting Information for Milestone 1.
+  - [ ] This should, where relevant, include any contributions from sources including your School, any external or industry contributions, Research Office at Curtin support (Research Support Funds) and any other sources of funding.
 
 # References
- - Thesis via compilation aka via publication: [library presentation](https://libguides.library.curtin.edu.au/ld.php?content_id=49728410) and [guidelines for thesis submission](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf) and [thesis submission requirements](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf)
+PhD Thesis via accumulation/publication: [library presentation](https://libguides.library.curtin.edu.au/ld.php?content_id=49728410) and [guidelines for thesis submission](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf) and [thesis submission requirements](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf)
+
+## Citations from the above document:
+  - [ ] (i)
+  - [ ] (ii)
+  - [ ] (iii)
+  - [ ] (iv)
+  - [ ] (v)
+  - [ ] (vi)
+  - [ ] (vii)
+  - [ ] (viii)
+  - [ ] (ix)
+  - [ ] (x)
+  - [ ] (xi)
+  - [ ] (xii)
+  - [ ] (xiii)
+
+## Thesis Bibliography
+  - [ ] For a full bibliographic list please see the [Open Source repository for this research project](https://github.com/david-flanders-tuke/PhD/blob/main/bibliography.md)
