@@ -5,7 +5,7 @@
 ## (I) Title
 Proposed high-level titles for final PhD thesis:
   - [ ] Institutional design of collaboration-based research policy for scholarly products
-  - [ ] The games researchers play: scholarly marketplace value and the design of common pool research resources 
+  - [ ] The games researchers play: the value of collaborative scholarly marketplaces and the design of common pool research resources
   - [ ] How do researchers decide the games (and rules) they want to play? - collaboration as means to achieve efficiency for taxpayer funded research policy
 
 ### Abstact(s)
@@ -19,39 +19,42 @@ Proposed high-level abstracts for final PhD thesis:
 [Draft list of supervisors, contributors and other shoulders on which I've stood](https://github.com/david-flanders-tuke/PhD/blob/main/about.md).
 
 ## (II) Background 
-@Cameron/Karl, below is the M1 criteria for this section, please feel free to add any additional crtieria which you would like expoounded:
-  - [ ] Literature review of field
-  - [ ] Situates the research project within the field
+Milestone 1 criteria for PhD research proposal's background context:
+  - [x] Literature review of field
+  - [x] Situates the research project within the field
 
 ### Literature review
-  - Over the past fifty years economics and social science researchers have created new methodologies for evaluating enterprises for public goods, building on traditional economic analysis of entrepreneurship to the private market economy.  Most notable in this endeavor was Elinor Ostrom who won the Nobel Memorial Prize in Economic Sciences for her "analysis of economic governance, especially the commons", which she shared with Oliver E. Williamson, et al in 2009.  These new research methods provide an opportunity to evaluate Governmental agencies endeavouring to provide public goods.  The focus of this research is the evaluation of 'common property resources' as provided by the Australian taxpayer.
-  - The value of the scholarly marketplace worldwide is now estimated to exceed ten-billion dollars, making it more valuable than the music industry.  The primary resource which derives economic value from this marketplace is the scholarly research publication which is primarily funded by the taxpayer in the USA (National Science Foundation, National Institute of Health, etc), UK (Medical Research Council, Higher Education Funding Council of England), EU (European Commision) and Australasia (Australian Research Council).
-  - The Australian Research Council (ARC) acts as the primary entrepreneur which delegates taxpayer funds as a common property resource to Australian researchers via a research grant marketplace.  Accordingly, for the purpose of this evaluation the research grant marketplace provided by the ARC is defined as a 'public good' because the funds provided are not easy to exclude and are limited. 
-  - The New Instittutional Economic methods for evaluating public good marketplaces, like the ARC, are dictated by the mathematcial modelling of game theory.  Specifically, the game known as the 'prisoner's dilemma' or 'tragedy of the commons' provides the base combinatorial matrix by which public goods can be interrogated for their efficiency, or rather lack of efficiency defined as a 'Common Property Resource (CPR) dilemma'.
-  - The catalyst for evaluating group efficiency (or non-cooperative CPR dilemmas) was the field experiments carried out by Ostrom and Cardenas in 1996 in South America.  These field experiments brought together groups of local Colombian farmers to evaluate their group interactions and what, if any, efficiencies and/or dilemmas arose.  Accordingly, the first part of this PhD research is a replication of this field experiment applied to local Australian research groups. 
-  - The hypothetical research questions which arise in these field experiments are two fold: (a) for research groups who are not efficient in their use of taxpayer funding (aka face CPR dilemmas), what behaviourval regularities emerge in the development of improved group collaboration theories, and (b) what types of institutional variables (physical, virtual and policy rules) affect the liklihood of successful resolution of CPR dilemmas?
+  - [ ] Over the past fifty years economics and social science researchers have created new methodologies for evaluating enterprises for public goods, building on traditional economic analysis of entrepreneurship to the private market economy.  Most notable in this endeavor was Elinor Ostrom who won the Nobel Memorial Prize in Economic Sciences for her "analysis of economic governance, especially the commons", which she shared with Oliver E. Williamson, et al in 2009.  These new research methods provide an opportunity to evaluate Governmental agencies endeavouring to provide public goods.  The focus of this research is the evaluation of 'common property resources' as provided by the Australian taxpayer.
+  - [ ] The value of the scholarly marketplace worldwide is now estimated to exceed ten-billion dollars, making it more valuable than the music industry.  The primary resource which derives economic value from this marketplace is the scholarly research publication which is primarily funded by the taxpayer in the USA (National Science Foundation, National Institute of Health, etc), UK (Medical Research Council, Higher Education Funding Council of England), EU (European Commision) and Australasia (Australian Research Council).
+  - [ ] The Australian Research Council (ARC) acts as the primary entrepreneur which delegates taxpayer funds as a common property resource to Australian researchers via a research grant marketplace.  Accordingly, for the purpose of this evaluation the research grant marketplace provided by the ARC is defined as a 'public good' because the funds provided are not easy to exclude and are limited. 
+  - [ ] The New Instittutional Economic methods for evaluating 'Common Pool Resource' (CPR) marketplaces, like the ARC, are dictated by the mathematical modelling of game theory.  Specifically, the game known as the 'prisoner's dilemma' provides the base combinatorial matrix by which Common Property Resources can be interrogated for their efficiency, or rather lack of efficiency defined as a 'Common Property Resource (CPR) dilemma'.
+  - [ ] The catalyst for evaluating group efficiency (or non-cooperative CPR dilemmas) was the field experiments carried out by Ostrom and Cardenas in 1996 in South America.  These field experiments brought together groups of local Colombian farmers to evaluate their group interactions and what, if any, efficiencies and/or dilemmas arose.  Accordingly, the first part of this PhD research is a replication of this field experiment applied to local Australian research groups. 
+  - [ ] The hypothetical research questions which arise in these field experiments are two fold: (a) for research groups who are not efficient in their use of taxpayer funding (aka they collectively face a CPR dilemmas), what behaviourval regularities emerge in the development of improved group collaboration theories, and (b) what types of institutional variables (physical, virtual and policy rules) affect the liklihood of successful resolution of CPR dilemmas?
+  - [ ] Once this field experiment has been replicated, the findings will fed into the Institutional Advanced Design (IAD) framework, which provides a methodology for bridging CPR theory into practice.  Comparison of the data from the original 1996 field experiment will be compared to the contemporary published results helping further inform the theoreticla foundations of CPR research.  
+  - [ ] Pending experimental investigations, the final part of this PhD research could be one of two developments: (i) advancement of the field experiment with additional policy (rules/sanctions) to interrogate research group collaboration efficiencies; and/or (ii) case studies of other research groups in the USA, UK and EU and their participation in the field experiments to inform institutional policy.  Ideally the final thesis will result in evidence to inform the policies of the Australian Research Council and/or University Research Chancellors and their committees.
  
 ### Potential value of research within the field
 Current observable societal issues which this research may inform:
-  - [ ] The rise of the 'Open Access' movement has questioned the value which taxpayers receive via government funded research council grants. This research will provide a repeatable experiment whereby small groups of likeminded researchers (5-8 people) can self-evaluate themselves as a group to determine their collaborative efficiency.
+  - [ ] The rise of the 'Open Access' movement has questioned the value which taxpayers receive via government funded research council grants. This research will provide a repeatable experiment whereby small groups of likeminded researchers (5-8 people) can self-evaluate themselves as a group to determine their collaborative efficiency to the taxpayer.
   - [ ] With the rise of databases the ability by governments to track and enforce policy rules has increased significantly, as primarily evidenced by China's surveilance regime under the General Secretary of the Chinese Communist Party (CCP) Xi Jinping's administration.  These monitorring and sanctioning methods have increased significantly worldwide, especially in Australia via COVID related policy rules and border enforcement.  University administrations are increasingly monitorring and sancitoning researchers in accordance with institutional policy requirements.  How do we know if these policy rules are actually afffective? This research will investigate the value of top down-policy reform and its effecitveness in regulating efficiency of collaborative research groups.
+  - [ ] University intensive research institutions in Australia, have been widely percieved as "bad places to work", with labels such as “destructive hyper-competition, toxic power dynamics and poor leadership behaviour”.  The single-minded metric of research excellence has resulted in an Academic culture "that cares exclusively about what is achieved and not about how it is achieved".  Despite numerous reports and claims by Australian Academic leaders (including present and previous 'Group of Eight' Vice-Chancelors) [further funding is being provided to support metrics of excellence](https://www.nature.com/articles/d41586-019-02951-4). 
   - [ ] [See list of theorectical context for research field experiments of CPR dilemmas](https://github.com/david-flanders-tuke/PhD/blob/main/theory.md)
  
 ## (III) [Methodology and Methods](https://github.com/david-flanders-tuke/PhD/blob/main/methodology.md)
 M1 criteria for this section:
-  - [ ] research methodlogy
-  - [ ] appropriateness & scope in/out
+  - [x] research methodology
+  - [x] appropriateness & scope
 
 ### Research methodologies
 The theorectical foundations proposed by Ostrom et al for common property resource dilemmas are: (A) empircal well grounded game theory, and (B) bounded rationality theory.  Both of these theories are interrogated via the Institutional Analysis and Development Framework (IAD) which prescribes the following methodologies for the initial field experiment phase of this research.  The the data analysis outputs from this field experiment are two fold:
   - [ ] (a) Quantitative analysis of group decisions to interrogate the optimal efficiency achieved, e.g. are the researchers acting as optimal rational players in the game or are they acting innefficiently, therefore classifying their behaviour as a collective-action dilemma.  Further rounds in the game evaluate the performance of different groups when new rules are added to see if each group performs more or less optimal.
   - [ ] (b) Qualitative analysis of each individual (via post game survey) evaluates the rational behind each decision and classifies these beahviours into framework. The framework organizes the kinds of information that individuals may use in deciding whether to cooperate or defect in a collective-action problem.
-  - [ ] (c) Once the quantitative and qualitative data are evaluated, the research will progress the results via the the Institutional Analysis and Development (IAD) framework whereby the outcomes will (optimally) result in further case studies to bridge the theoretical results into practice, e.g. proposed policy for research funding councils and/or Universities to utilise policy rules which systematically  increase optimal research group efficiency.
+  - [ ] (c) Once the quantitative and qualitative data are evaluated, the research will progress the results via the the Institutional Analysis and Development (IAD) framework whereby the outcomes will (optimally) result in further case studies to bridge the theoretical results into practice, e.g. proposed policy for research funding councils and/or Universities to utilise policy rules which systematically  increase optimal research group collaboration efficiency.
 
 #### (a) quantitative analysis methods
   - [ ] The formal experimentation methodology which will be used is 'non cooperative game theory' which fundamentally relies on the 'prisoner's dilemma' matrix to evaluate the individual and group decisions during the field experiment.
-      - [ ] The first phase of this research reproduces the original field experiment, but with a tradeoff in participant ?socio-economic? status: where the orginal participants were rural farmers from Columbia South America, the subjects in this study are University researchers in Australia.  Accordingly, the comparison of these two experimental subjects will juxtapose 'bounded rationality theory', e.g. how will Australian researchers compare to Columbian farmer's in terms of their efficiency and/or dilemmas when attempting to optimise a common property resource?
-      - [ ] The post-game interview/survey of participants will evaluate the bounds by which Australian researchers make decisions (as per the framework of the original study) the layered-bounds by which individuals act in groups are hypothesised by Cardenas et al are: (a) personal identity layer, (b) group-context layer, and (c) material payoff game layer. 
+      - [ ] The first phase of this research reproduces the original field experiment, but with a tradeoff in participant socio-economic status: the orginal participants were rural farmers from Columbia South America, the subjects in this study are University researchers in Australia.  Accordingly, the comparison of these two experimental subjects will juxtapose 'bounded rationality theory', e.g. how will Australian researchers compare to Columbian farmer's in terms of their efficiency and/or dilemmas when attempting to optimise a common property resource?
+      - [ ] The post-game interview/survey of participants will evaluate the bounds by which Australian researchers make decisions (as per the framework of the original study) the layered-bounds by which individuals act in groups are hypothesised by Cardenas et al are: (a) personal identity layer, (b) group-context layer, and (c) material payoff game layer.  This framework challenges the "theory of goods" which predicts that humans will overharvest resulting in a 'tragedy of the commons'.  Are researchers willing to participate in a conversation which optmises research funding 
   - [ ] Statistically, the analysis of the experimental subjects during the game will be via a multi-round asymetric payoff table.  Please see the [formulation for this calculation via the Open Source repository for this research](https://github.com/david-flanders-tuke/PhD/blob/main/evaluation-framework_experiment.md).
       - [ ]  The results from the game will enable each group to be ranked in terms of their collective-action efficiency.  As new rules are added in each iteration of the game, further insights are gained into how each group approaches collective-action problems and the joint strategies (rules) they adopt to achieve a joint optimal outcome.
 
@@ -68,12 +71,25 @@ The 'Institutional Analysis and Development' (IAD) framework is a systematic met
  - [ ] Experimental participant groups will be evaluated according to their governance structure and their social systems by dividing them up into 'action arenas' to understand their practice function as per the IAD's social science methods. 
  - [ ] The final methodological phase of this PHD research will be to 'bridge the theory into practice' by proposing policy changes to Research Funding Councils like the ARC and/or Vice-Chancellors for Research at Universities.  These proposed changes will be written up a IAD case studies and published accordingly.
 
-### Appropriateness & scope of methodology
+### Appropriateness & scope
 
-#### In scope
+Strength (internal)
+ - [ ] Longtidual participation in policy reform and community agreement via the 'Open Access' movement (since Budapest Declaration 2002).
+ - [ ] Strong data and statistical analysis skills.
+ - [ ] Working via the school of humanities enables greater pastoral support for multi-disciplinary topic spanning economics, social science, politicial science and combinatoric game theory.
 
-#### Out of scope
+Weakness (internal)
+ - [ ] Loss of supervisors due to uncertainty in lab funding: missing research expertise: economics, politicial science and diversity of perspectives.
+ - [ ] Unable to access Curtin campus resources given WA border enforcement locking out Australian residents.
 
+Opportunities (external)
+ - [ ] Primary theoretical research being done to evaluate the policy surrounding the $800+ million in taxpayer grants which the Australian Research Council distributes each year.
+ - [ ] Implications for how Universities establish better policies (rules, sanctions, promotions) to increase collaboartive research endeavours.
+ - [ ] Pandemic reset for Univerities will require a major rethink in how Australian Universities are dictated to by government control.
+
+Threat (external)
+ - [ ] Universities are in a state of panic and confusion as the pandemic limits business as usual practices.
+ - [ ] Lack of funding for research (and border isolation), has limited collaborative opportunities with other researchers.
  
 ## (IV) [Timeline](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
 M1 criteria for this section:
