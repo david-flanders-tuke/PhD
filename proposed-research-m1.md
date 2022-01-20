@@ -72,7 +72,42 @@ The 'Institutional Analysis and Development' (IAD) framework is a systematic met
  - [ ] The final methodological phase of this PHD research will be to 'bridge the theory into practice' by proposing policy changes to Research Funding Councils like the ARC and/or Vice-Chancellors for Research at Universities.  These proposed changes will be written up a IAD case studies and published accordingly.
 
 ### Appropriateness & scope
+  - [ ] how the methodology addresses your research questions: what can it tell you, what can’t it tell you and what are the tradeoffs you are making?
 
+#### Appropriateness
+How does the methodology address your research questions?
+ - [ ] Methodology A (empirical well grounded game theory) is the quantiative means by which to measure the percentage of success which the group is achieving as a whole within the context of the game?  
+     - [ ] In scope: Are groups of researchers being efficient (Pareto optimal) or are they falling short of their collaborative capability (Nash equillibrium) and/or are they deciding not to participate in the game ('Tragedy of the Commons)?  What patterns of game play are most utilised by different groups of researchers to acheive these different outcomes? If researchers are not achieving optimal efficiency what are the characteristics of their CPR dilemma, and what base game play rules can we learn which avoid collaborative dilemmas?
+     - [ ] Out of scope: as the game is a representation of reality, what complexities are missing from the game which would fundamentally change the group behaviours? Is the systemisation of the game too simple to represent reality? 
+ - [ ] Methodlogy B (bounded rationality theory) is the qualitative means by which to measure the behavioural outcomes of the research group acting as a collective vs acting as an individual.
+     - [ ] In scope: how will the contextual experiment prompt specific behaviours and modes of collective action?  Do these behavioural triggers represent patterns and if so what rules can be put in place to further support or repress these behaviours in other situations?
+     - [ ] Out of scope: Are there panaceas which can be learned from this work which are universally applied to all other institutions?  What is the level of abstraction we can assume from these experiment in juxtaposition to the complexities of the 'Ivory Tower'?
+ - [ ] Methodlogy C (rational choice model) is the Institutional Analysis and Development (IAD) framework which prescribes how the theory of the experiment can be bridged into practice, ideally in the form of new proposed rules (policies and/or sanctions).
+     - [ ] In scope: do researchers apply collective action thinking to their day-to-day decisions?  How do researchers think about the value of the resources they are consuming as well as producing?  Who is responsible to the taxpayer for the optimal and efficient use of CPRs?
+     - [ ] Out of scope: How does this research apply to instituions outside of the English-speaking University systems, and what loss of value is a result of evaluating a global mono-culture?
+
+## (IV) [Timeline](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
+M1 criteria for this section:
+  - [ ] Timeline key dates
+  - [ ] Gaant chart
+
+### Research project timeline & risks
+The start of this part-time PhD occured as the global pandemic ensued, resulting in this work being isolated from the COKI lab and the research team (Western Australia continues to impose severe border restrictions at the time of writing).  Working with the School of Humanities on a thesis addressing 'collaborative research group behaviours' was identified as an "acute juxtaposed irony".
+  - [ ] For the ongoing timeline of this research project please see the [Open Source repository for this PhD](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
+
+### Timeline
+As per Curtin University guidelines for PhD 'thesis via accumulation' it is envisioned that this PhD will have three parts:
+  - [ ] 1. Field experiment(s), including the following scholarly outputs:
+      - [ ] Publication of field experiment results data, both quantiative game analysis and qualitative interview analysis.
+      - [ ] Publication of field experiment in comparison to the original field experiments, as per hypothesised bounded rationlity theory.
+  - [ ] 2. Adaption of the field experiment rules (based on iterative experiments with research groups), including the following scholarly outputs:
+      - [ ] Reformulation of the empirical well grounded game theory to enable additional rules and asymetric analysis.
+      - [ ] Publication of the revised asymetric payoff table for collaborative rule creation.
+  - [ ] 3. Bridging theory into practice, including the following scholarly outputs:
+      - [ ] Case study of specific Australian research groups and the mediation of their policy via collaborative IAD.
+      - [ ] If time permits, adapted field experiments (aka case studies) with other USA, UK and EU research groups to provide further comparison.
+
+#### Research project risks 
 Strength (internal)
  - [ ] Longtidual participation in policy reform and community agreement via the 'Open Access' movement (since Budapest Declaration 2002).
  - [ ] Strong data and statistical analysis skills.
@@ -91,28 +126,8 @@ Threat (external)
  - [ ] Universities are in a state of panic and confusion as the pandemic limits business as usual practices.
  - [ ] Lack of funding for research (and border isolation), has limited collaborative opportunities with other researchers.
  
-## (IV) [Timeline](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
-M1 criteria for this section:
-  - [ ] Timeline key dates
-  - [ ] Gaant chart
-
-### Timeline & key dates
-The start of this part-time PhD occured as the global pandemic ensued, resulting in this work being isolated from the COKI lab and the research team (Western Australia continues to impose severe border restrictions at the time of writing).  Working with the School of Humanities on a thesis addressing 'collaborative research group behaviours' was identified as an "acute juxtaposed irony".
-  - [ ] For the ongoing timeline of this research project please see the [Open Source repository for this PhD](https://github.com/david-flanders-tuke/PhD/blob/main/timeline-milestones.md)
-
-### Gaant chart
-As per Curtin University guidelines for PhD 'thesis via accumulation' it is envisioned that this PhD will have three parts:
-  - [ ] 1. Field experiment(s), including the following scholarly outputs:
-      - [ ] Publication of field experiment results data, both quantiative game analysis and qualitative interview analysis.
-      - [ ] Publication of field experiment in comparison to the original field experiments, as per hypothesised bounded rationlity theory.
-  - [ ] 2. Adaption of the field experiment rules (based on iterative experiments with research groups), including the following scholarly outputs:
-      - [ ] Reformulation of the empirical well grounded game theory to enable additional rules and asymetric analysis.
-      - [ ] Publication of the revised asymetric payoff table for collaborative rule creation.
-  - [ ] 3. Bridging theory into practice, including the following scholarly outputs:
-      - [ ] Case study of specific Australian research groups and the mediation of their policy via collaborative IAD.
-      - [ ] If time permits, adapted field experiments (aka case studies) with other USA, UK and EU research groups to provide further comparison.
- 
 ## (V) Project budget
+M1 criteria for research project budgets for PhDs
   - [ ] budget table: this should, where relevant, include any contributions from sources including your School, any external or industry contributions, Research Office at Curtin support (Research Support Funds) and any other sources of funding.
 
 ### Estimate budget
