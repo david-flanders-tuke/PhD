@@ -112,9 +112,17 @@ As per Curtin University guidelines for PhD 'thesis via accumulation' it is envi
       - [ ] Case study of specific Australian research groups and the mediation of their policy via collaborative IAD.
       - [ ] If time permits, adapted field experiments (aka case studies) with other USA, UK and EU research groups to provide further comparison.
  
-## (V) Full project budget
-  - [ ] budget table
-  - [ ] This should, where relevant, include any contributions from sources including your School, any external or industry contributions, Research Office at Curtin support (Research Support Funds) and any other sources of funding.
+## (V) Project budget
+  - [ ] budget table: this should, where relevant, include any contributions from sources including your School, any external or industry contributions, Research Office at Curtin support (Research Support Funds) and any other sources of funding.
+
+### Estimate budget
+Budget expenditures: $8k-10k in total (for the following)
+ - [ ] $2000 Field experiment prizes/rewards (participatory and winnings)
+ - [ ] $1000 Virtual conference software for conducting field experiment, e.g. transcription, video recording, etc.
+ - [ ] $1000 Field experiment moderator (to act as virtual support for online field experiment)
+ - [ ] $1500 Travel to Curtin University to work with COKI Lab
+ - [ ] $2000 Presentation of findings at discplinary conference
+ - [ ] $500 Publication costs (formatting, copy-editting, journal fee, etc)
 
 # References
 PhD Thesis via accumulation/publication: [library presentation](https://libguides.library.curtin.edu.au/ld.php?content_id=49728410) and [guidelines for thesis submission](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf) and [thesis submission requirements](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf)
