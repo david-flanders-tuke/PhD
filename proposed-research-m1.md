@@ -142,20 +142,5 @@ Budget expenditures: $8k-10k in total (for the following)
 # References
 PhD Thesis via accumulation/publication: [library presentation](https://libguides.library.curtin.edu.au/ld.php?content_id=49728410) and [guidelines for thesis submission](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf) and [thesis submission requirements](https://students.curtin.edu.au/wp-content/uploads/sites/6/2020/10/Guidelines-for-Thesis-Preparation-and-Submission.pdf)
 
-## Citations from the above document:
-  - [ ] (i)
-  - [ ] (ii)
-  - [ ] (iii)
-  - [ ] (iv)
-  - [ ] (v)
-  - [ ] (vi)
-  - [ ] (vii)
-  - [ ] (viii)
-  - [ ] (ix)
-  - [ ] (x)
-  - [ ] (xi)
-  - [ ] (xii)
-  - [ ] (xiii)
-
 ## Thesis Bibliography
   - [ ] For a full bibliographic list please see the [Open Source repository for this research project](https://github.com/david-flanders-tuke/PhD/blob/main/bibliography.md)
