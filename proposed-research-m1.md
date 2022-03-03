@@ -1,3 +1,8 @@
+# Milestone 1 Research Proposal for Curtin University
+ - [x] M1 form from Curtin
+ - [x] [M1 Research proposal](https://docs.google.com/document/d/e/2PACX-1vRPuu9uZiOlt4zYs68jyo2qRrZ65PkuA5ld5JV2jz9aSvyLNDCrWJsoqvvvS1XRag/pub?urp=gmail_link) 
+ - [ ] Submission process and final University archive for documents 
+
 # Research Proposal
  - [x] [The below document is based on the template provide by Curtin University for Milestone 1 PhDs](https://github.com/david-flanders-tuke/PhD/blob/main/FORM-Milestone-1-Application-Form-2021_FlandersTuke.pdf)
  - [x] [Link to presentation slides outlining the below milestone 1 PhD research proposal](https://docs.google.com/presentation/d/e/2PACX-1vQaziQZt2WtoDWuDPNxD3pmtzHlrsYfD70Yl3GhdKKp6HWHX9wp-zzG6MBXmXgbzP0vaiNSGLir-TPf/pub)
