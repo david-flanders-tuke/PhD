@@ -1,3 +1,11 @@
+# TO READ
+https://policy.university/TO-READ_research
+
+  - [ ] Sabatier, P. A., M. Weible, C. (2018). Theories of the Policy Process. United Kingdom: Taylor & Francis.
+  - [ ] Clement, F., McGinnis, M. D., Andersson, K., Feiock, R. C., Evans, T., Fisher, B. C., Brondizio, E. S., Holahan, R., Gibson, C., Cole, D. H. (2017). Elinor Ostrom and the Bloomington School of Political Economy: A Framework for Policy Analysis. United States: Lexington Books.
+  - [ ] Chambouleyron, J., Manor, S. (1993). Performance Measurement in Farmer-managed Irrigation Systems: International Workshop : Papers and Abstracts. Sri Lanka: International Irrigation Management Institute.
+
+# Previously cited in my research
 A kinder research culture is possible. (2019). Nature, 574(7776), 5–6.
 
 Bijker, W. E. (2010). How is technology made?—That is the question! Cambridge Journal of Economics, 34(1), 63–76.
@@ -105,10 +113,4 @@ Willinsky, J. (2006). The access principle: The case for open access to research
 Journal of Institutional Economics , Volume 13 , Issue 4 , December 2017 , pp. 829 - 847
 DOI: https://doi.org/10.1017/S1744137417000030
 
-# TO READ
 
-Sabatier, P. A., M. Weible, C. (2018). Theories of the Policy Process. United Kingdom: Taylor & Francis.
-
-Clement, F., McGinnis, M. D., Andersson, K., Feiock, R. C., Evans, T., Fisher, B. C., Brondizio, E. S., Holahan, R., Gibson, C., Cole, D. H. (2017). Elinor Ostrom and the Bloomington School of Political Economy: A Framework for Policy Analysis. United States: Lexington Books.
-
-Chambouleyron, J., Manor, S. (1993). Performance Measurement in Farmer-managed Irrigation Systems: International Workshop : Papers and Abstracts. Sri Lanka: International Irrigation Management Institute.
