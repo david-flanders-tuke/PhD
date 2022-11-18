@@ -101,3 +101,14 @@ Tsang, E. P. K. (2008). Computational intelligence determines effective rational
 Wikipedia contributors. (2022, February 21). Science and technology studies. Wikipedia, The Free Encyclopedia. https://en.wikipedia.org/w/index.php?title=Science_and_technology_studies&oldid=1073212962
 
 Willinsky, J. (2006). The access principle: The case for open access to research and scholarship. https://repository.arizona.edu/handle/10150/106529
+
+Journal of Institutional Economics , Volume 13 , Issue 4 , December 2017 , pp. 829 - 847
+DOI: https://doi.org/10.1017/S1744137417000030
+
+# TO READ
+
+Sabatier, P. A., M. Weible, C. (2018). Theories of the Policy Process. United Kingdom: Taylor & Francis.
+
+Clement, F., McGinnis, M. D., Andersson, K., Feiock, R. C., Evans, T., Fisher, B. C., Brondizio, E. S., Holahan, R., Gibson, C., Cole, D. H. (2017). Elinor Ostrom and the Bloomington School of Political Economy: A Framework for Policy Analysis. United States: Lexington Books.
+
+Chambouleyron, J., Manor, S. (1993). Performance Measurement in Farmer-managed Irrigation Systems: International Workshop : Papers and Abstracts. Sri Lanka: International Irrigation Management Institute.
