@@ -7,27 +7,11 @@ Table of contents for this page:
  -  [x] 2021-06-21 = PhD start date
        * Q3 = Research supervisor introductions
        * Q4 = Research proposal preparation and ethics approval submission
- -  [ ] 2022
+ -  [x] 2022
        * Q1 = Milestone 1 Due Feb 9th
-       * Q2 = Alpha field experiment with COKI lab
-       * Q3 = Evaluation of quantitative and qualitative data outputs from alpha field experiment.
-       * Q4 = publication of alpha field experiment
- -  [ ] 2023
-       * Q1 = apply for research funding to run Beta field experiment with 3-7 groups of researchers (7x ppl per group)
-       * Q2 = recruitment of discplinary research groups for field experiment
-       * Q3 = Beta field experiment run
-       * Q4 = evaluation of quantitative and qualitative research data outputs
- -  [ ] 2024
-       * Q1 = Milestone 2 report on progress of PhD 
-       * Q2
-       * Q3
-       * Q4
- -  [ ] 2025
-       * Q1
-       * Q2
-       * Q3
-       * Q4
- -  [ ] 2026
+ -  [x] 2023 - Ethics
+ -  [x] 2025 - Ethics
+ -  [ ] 2026 - Experiments and Conferences
        * Q1
        * Q2
        * Q3
